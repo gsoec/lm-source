@@ -1,0 +1,12 @@
+﻿using System;
+
+// Token: 0x0200021D RID: 541
+internal enum MAP_KINGDOMINFO_KIND : byte
+{
+	// Token: 0x04002154 RID: 8532
+	MAPKINFO_NONE,
+	// Token: 0x04002155 RID: 8533
+	MAPKINFO_KINGDOMTIME,
+	// Token: 0x04002156 RID: 8534
+	MAPKINFO_COUNT
+}

@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?><manifest xmlns:android="http://schemas.android.com/apk/res/android" android:installLocation="internalOnly" package="com.igg.android.lordsmobile_cn" platformBuildVersionCode="27" platformBuildVersionName="8.1.0">
+    <supports-screens android:anyDensity="true" android:largeScreens="true" android:normalScreens="true" android:smallScreens="true" android:xlargeScreens="true"/>
+    <application android:debuggable="false" android:icon="@drawable/app_icon" android:label="@string/app_name" android:name="com.igg.iggsdkbusiness.GlobalApplication" android:theme="@android:style/Theme.NoTitleBar.Fullscreen">
+        <activity android:configChanges="fontScale|keyboard|keyboardHidden|locale|mcc|mnc|navigation|orientation|screenLayout|screenSize|smallestScreenSize|touchscreen|uiMode" android:label="@string/app_name" android:launchMode="singleTask" android:name="com.igg.iggsdkbusiness.IGGSDKPlugin" android:screenOrientation="sensorLandscape">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+                <category android:name="android.intent.category.LAUNCHER"/>
+            </intent-filter>
+            <intent-filter>
+                <action android:name="android.intent.action.VIEW"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+                <category android:name="android.intent.category.BROWSABLE"/>
+                <data android:host="igg" android:path="/global" android:scheme="lordsmobile"/>
+            </intent-filter>
+            <meta-data android:name="unityplayer.UnityActivity" android:value="true"/>
+            <meta-data android:name="unityplayer.ForwardNativeEventsToDalvik" android:value="true"/>
+        </activity>
+        <activity android:configChanges="keyboard|keyboardHidden|orientation" android:label="@string/app_name" android:name="com.unity3d.player.VideoPlayer"/>
+        <activity android:configChanges="fontScale|keyboard|keyboardHidden|locale|mcc|mnc|navigation|orientation|screenLayout|screenSize|smallestScreenSize|touchscreen|uiMode" android:label="@string/app_name" android:name="com.outlinegames.unibill.PurchaseActivity" android:theme="@android:style/Theme.Translucent.NoTitleBar.Fullscreen"/>
+        <activity android:configChanges="orientation|screenSize" android:label="@string/app_name" android:name="com.igg.iggsdkbusiness.IGGWebView"/>
+        <activity android:label="@string/app_name" android:name="com.igg.iggsdkbusiness.TapjoyView"/>
+        <service android:name="com.igg.iggsdkbusiness.GCMIntentService"/>
+        <receiver android:exported="true" android:name="com.igg.iggsdkbusiness.GCMBroadcastReceiver" android:permission="com.google.android.c2dm.permission.SEND">
+            <intent-filter>
+                <action android:name="com.google.android.c2dm.intent.RECEIVE"/>
+                <action android:name="com.google.android.c2dm.intent.REGISTRATION"/>
+                <category android:name="com.igg.android.lordsmobile_cn"/>
+            </intent-filter>
+        </receiver>
+        <meta-data android:name="APP_NAME" android:value="com.igg.android.lordsmobile_cn"/>
+        <meta-data android:name="com.google.android.gms.version" android:value="@integer/google_play_services_version"/>
+        <meta-data android:name="com.neatplug.u3d.plugins.common.﻿NPUnityPlayerActivityUtility" android:value="UnityPlayerActivityProxy"/>
+        <receiver android:exported="true" android:name="com.appsflyer.MultipleInstallBroadcastReceiver">
+            <intent-filter>
+                <action android:name="com.android.vending.INSTALL_REFERRER"/>
+            </intent-filter>
+        </receiver>
+        <meta-data android:name="CHANNEL" android:value="iggcn"/>
+        <receiver android:name="com.igg.iggsdkbusiness.LocalNotificationReceiver">
+            <category android:name="com.igg.android.lordsmobile_cn"/>
+        </receiver>
+        <meta-data android:name="com.facebook.sdk.ApplicationId" android:value="@string/facebook_app_id"/>
+        <activity android:configChanges="keyboard|keyboardHidden|orientation|screenLayout|screenSize" android:label="@string/app_name" android:name="com.facebook.FacebookActivity" android:theme="@android:style/Theme.Translucent.NoTitleBar"/>
+        <receiver android:exported="false" android:name="com.igg.iggsdkbusiness.AuthRequestReceiver">
+            <intent-filter>
+                <action android:name="com.igg.android.game.authreceiver"/>
+            </intent-filter>
+        </receiver>
+        <activity android:exported="true" android:name="com.igg.android.wegamers.auth.AuthActivity" android:screenOrientation="portrait">
+            <intent-filter>
+                <action android:name="android.intent.action.VIEW"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+                <category android:name="android.intent.category.BROWSABLE"/>
+                <data android:host="com.igg.android.lordsmobile_cn" android:pathPrefix="/request" android:scheme="wegamersauth"/>
+            </intent-filter>
+        </activity>
+        <activity android:configChanges="keyboardHidden|navigation|orientation|screenSize" android:exported="false" android:name="com.alipay.sdk.app.H5PayActivity" android:screenOrientation="behind" android:windowSoftInputMode="adjustResize|stateHidden"/>
+        <activity android:configChanges="keyboardHidden|orientation|screenSize" android:excludeFromRecents="true" android:exported="true" android:name="com.igexin.sdk.GActivity" android:process=":pushservice" android:taskAffinity="com.igexin.sdk.PushActivityTask" android:theme="@android:style/Theme.Translucent.NoTitleBar"/>
+        <meta-data android:name="PUSH_APPID" android:value="DCjIZmtVne9mGLJSKjY452"/>
+        <meta-data android:name="PUSH_APPKEY" android:value="WqEHwAtWDp8LCbtH6ITis7"/>
+        <meta-data android:name="PUSH_APPSECRET" android:value="EgSDS8WsLv6IUH5qahv2h6"/>
+        <receiver android:exported="false" android:name="com.igg.iggsdkbusiness.GeTuiIntentReceiver">
+            <intent-filter>
+                <action android:name="com.igexin.sdk.action.DCjIZmtVne9mGLJSKjY452"/>
+            </intent-filter>
+        </receiver>
+        <service android:exported="true" android:label="NotificationCenter" android:name="com.igexin.sdk.PushService" android:process=":pushservice">
+            <intent-filter>
+                <action android:name="com.igexin.sdk.action.service.message"/>
+            </intent-filter>
+        </service>
+        <receiver android:name="com.igexin.sdk.PushReceiver">
+            <intent-filter>
+                <action android:name="android.intent.action.BOOT_COMPLETED"/>
+                <action android:name="android.net.conn.CONNECTIVITY_CHANGE"/>
+                <action android:name="android.intent.action.USER_PRESENT"/>
+                <action android:name="com.igexin.sdk.action.refreshls"/>
+                <action android:name="android.intent.action.MEDIA_MOUNTED"/>
+                <action android:name="android.intent.action.ACTION_POWER_CONNECTED"/>
+                <action android:name="android.intent.action.ACTION_POWER_DISCONNECTED"/>
+            </intent-filter>
+        </receiver>
+        <receiver android:name="com.igg.service.LocaleChangeBroadcastReceiver">
+            <intent-filter>
+                <action android:name="android.intent.action.LOCALE_CHANGED"/>
+            </intent-filter>
+        </receiver>
+        <activity android:excludeFromRecents="true" android:exported="false" android:name="com.igexin.sdk.PushActivity" android:process=":pushservice" android:taskAffinity="com.igexin.sdk.PushActivityTask" android:theme="@android:style/Theme.Translucent.NoTitleBar"/>
+        <service android:name="com.igexin.download.DownloadService" android:process=":pushservice"/>
+        <receiver android:name="com.igexin.download.DownloadReceiver">
+            <intent-filter>
+                <action android:name="android.net.conn.CONNECTIVITY_CHANGE"/>
+            </intent-filter>
+        </receiver>
+        <provider android:authorities="downloads.com.igg.android.lordsmobile_cn" android:exported="true" android:name="com.igexin.download.DownloadProvider" android:process=":pushservice"/>
+        <activity android:exported="true" android:launchMode="singleTop" android:name=".wxapi.WXEntryActivity"/>
+        <activity android:exported="true" android:launchMode="singleTop" android:name=".wxapi.WXPayEntryActivity"/>
+        <receiver android:name="net.sourceforge.simcpux.AppRegister">
+            <intent-filter>
+                <action android:name="com.tencent.mm.plugin.openapi.Intent.ACTION_REFRESH_WXAPP"/>
+            </intent-filter>
+        </receiver>
+        <receiver android:exported="false" android:name="com.igg.iggsdkbusiness.AuthRequestReceiver">
+            <intent-filter>
+                <action android:name="com.igg.android.game.authreceiver"/>
+            </intent-filter>
+        </receiver>
+        <activity android:exported="true" android:name="com.igg.android.wegamers.auth.AuthActivity" android:screenOrientation="portrait">
+            <intent-filter>
+                <action android:name="android.intent.action.VIEW"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+                <category android:name="android.intent.category.BROWSABLE"/>
+                <data android:host="com.igg.android.lordsmobile_cn" android:pathPrefix="/request" android:scheme="wegamersauth"/>
+            </intent-filter>
+        </activity>
+    </application>
+    <uses-permission android:name="android.permission.INTERNET"/>
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE"/>
+    <uses-permission android:name="com.android.vending.BILLING"/>
+    <uses-permission android:name="android.permission.WAKE_LOCK"/>
+    <uses-permission android:name="android.permission.VIBRATE"/>
+    <uses-permission android:name="android.permission.GET_TASKS"/>
+    <uses-permission android:name="android.permission.USE_CREDENTIALS"/>
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE"/>
+    <uses-permission android:name="android.permission.READ_PHONE_STATE"/>
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"/>
+    <uses-permission android:name="android.permission.MOUNT_UNMOUNT_FILESYSTEMS"/>
+    <uses-permission android:name="com.google.android.c2dm.permission.RECEIVE"/>
+    <permission android:name="getui.permission.GetuiService.com.igg.android.lordsmobile_cn" android:protectionLevel="normal"/>
+    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED"/>
+    <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW"/>
+    <uses-permission android:name="getui.permission.com.igg.android.lordsmobile_cn"/>
+    <uses-feature android:glEsVersion="0x00020000"/>
+    <uses-feature android:name="android.hardware.touchscreen" android:required="false"/>
+    <uses-feature android:name="android.hardware.touchscreen.multitouch" android:required="false"/>
+    <uses-feature android:name="android.hardware.touchscreen.multitouch.distinct" android:required="false"/>
+</manifest>

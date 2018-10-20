@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="id" name="ll_top">false</item>
+    <item type="id" name="tv_igg_id">false</item>
+    <item type="id" name="tv_label">false</item>
+    <item type="id" name="tv_content">false</item>
+    <item type="id" name="btn_auth">false</item>
+    <item type="id" name="btn_cancel">false</item>
+    <item type="id" name="com_facebook_fragment_container">false</item>
+    <item type="id" name="com_facebook_login_activity_progress_bar">false</item>
+    <item type="id" name="com_facebook_body_frame">false</item>
+    <item type="id" name="com_facebook_tooltip_bubble_view_top_pointer">false</item>
+    <item type="id" name="com_facebook_button_xout">false</item>
+    <item type="id" name="com_facebook_tooltip_bubble_view_text_body">false</item>
+    <item type="id" name="com_facebook_tooltip_bubble_view_bottom_pointer">false</item>
+    <item type="id" name="messenger_send_button">false</item>
+</resources>

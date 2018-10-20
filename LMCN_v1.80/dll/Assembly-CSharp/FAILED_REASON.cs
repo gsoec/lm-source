@@ -1,0 +1,10 @@
+﻿using System;
+
+// Token: 0x0200035D RID: 861
+public enum FAILED_REASON : byte
+{
+	// Token: 0x04003838 RID: 14392
+	FAILED_REASON_KICK_AWAY,
+	// Token: 0x04003839 RID: 14393
+	FAILED_REASON_KICK_VANISH
+}

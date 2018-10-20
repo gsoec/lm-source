@@ -1,0 +1,35 @@
+!!brut.androlib.meta.MetaInfo
+apkFileName: LMCN_v1.80.apk
+compressionType: false
+doNotCompress:
+- arsc
+- properties
+- png
+- plist
+- assets/Data/Assetidx
+- assets/Data/Assetver
+- unity3d
+- res/drawable-hdpi-v4/com_facebook_tooltip_black_background.9.png
+- res/drawable-hdpi-v4/com_facebook_tooltip_blue_background.9.png
+- res/drawable-mdpi-v4/com_facebook_tooltip_black_background.9.png
+- res/drawable-mdpi-v4/com_facebook_tooltip_blue_background.9.png
+- res/drawable-xhdpi-v4/com_facebook_tooltip_black_background.9.png
+- res/drawable-xhdpi-v4/com_facebook_tooltip_blue_background.9.png
+isFrameworkApk: false
+packageInfo:
+  forcedPackageId: '127'
+  renameManifestPackage: null
+sdkInfo:
+  minSdkVersion: '9'
+  targetSdkVersion: '22'
+sharedLibrary: false
+sparseResources: false
+unknownFiles: {}
+usesFramework:
+  ids:
+  - 1
+  tag: null
+version: 2.3.3
+versionInfo:
+  versionCode: '168'
+  versionName: '1.80'

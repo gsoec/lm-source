@@ -1,0 +1,2 @@
+Y:\Projects\android-apk\LMCN\LMCN_v1.80\dll\Assembly-CSharp\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+Y:\Projects\android-apk\LMCN\LMCN_v1.80\dll\Assembly-CSharp\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache

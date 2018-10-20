@@ -1,0 +1,3 @@
+DownloadController.DownloadCheck 直接返回，阻止更新
+DataManager.SetUserLanguage 改语言
+NewbieManager.IsNewbie 直接False，阻止新手教程

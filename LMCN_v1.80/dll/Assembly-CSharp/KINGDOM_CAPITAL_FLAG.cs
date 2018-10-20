@@ -1,0 +1,22 @@
+﻿using System;
+
+// Token: 0x02000224 RID: 548
+public enum KINGDOM_CAPITAL_FLAG : byte
+{
+	// Token: 0x040021E6 RID: 8678
+	KCF_WIN,
+	// Token: 0x040021E7 RID: 8679
+	KCF_LOSE,
+	// Token: 0x040021E8 RID: 8680
+	KCF_SHIELD,
+	// Token: 0x040021E9 RID: 8681
+	KCF_CAPTURE,
+	// Token: 0x040021EA RID: 8682
+	KCF_CONVEY,
+	// Token: 0x040021EB RID: 8683
+	KCF_AMNESTY,
+	// Token: 0x040021EC RID: 8684
+	KCF_ENEMY,
+	// Token: 0x040021ED RID: 8685
+	KCF_HURT
+}

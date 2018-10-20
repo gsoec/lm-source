@@ -1,0 +1,1848 @@
+Signature-Version: 1.0
+Created-By: 1.0 (Android)
+SHA1-Digest-Manifest: kgEq9GeSmoT3gX7ungXD/bVOOsM=
+X-Android-APK-Signed: 2
+
+Name: AndroidManifest.xml
+SHA1-Digest: Ks72ywgXysOmRd+uyiBJcSqXBbU=
+
+Name: assets/Data/Asset.plist
+SHA1-Digest: fWeU/GAIypmyddFuB/kkjoyj/ow=
+
+Name: assets/Data/Assetidx
+SHA1-Digest: iYaCgMJe+P5lMi/CQ9V7ew77euI=
+
+Name: assets/Data/Assetver
+SHA1-Digest: Xja1kUW99MfXsead+e7JomRFAsc=
+
+Name: assets/Loading/Loader.unity3d
+SHA1-Digest: uuKRsnEKAya57JkJts56ZapTQXg=
+
+Name: assets/Loading/Shader.unity3d
+SHA1-Digest: opwoS6VlRNf7iBT+WHUj2rnTqKY=
+
+Name: assets/Loading/String.unity3d
+SHA1-Digest: R1eB//I31/vEZlnlq+3RcO6OuJ8=
+
+Name: assets/Loading/Table.unity3d
+SHA1-Digest: OslG3sGAZzdGSonV5zrZmDRtTu8=
+
+Name: assets/Loading/War02.unity3d
+SHA1-Digest: EbQTFlxkn7QvAO9v1+CvLsvKfss=
+
+Name: assets/Particle/Effects_001.unity3d
+SHA1-Digest: KM+2mjXzM4TUeybEeSH5ulEkkYo=
+
+Name: assets/Particle/Effects_002.unity3d
+SHA1-Digest: gkI89xEgz/r2dZ6+fzwGKsbgbDg=
+
+Name: assets/Particle/Monster_Effects_601.unity3d
+SHA1-Digest: wwp06qNGw+K85Dj1mZFiC/+PA18=
+
+Name: assets/Particle/Monster_Effects_602.unity3d
+SHA1-Digest: bZtG1W1r5ZuR8qm7eSD+V8TeJb8=
+
+Name: assets/Particle/Monster_Effects_603.unity3d
+SHA1-Digest: cJZJiYl4OCTTnmeZOImlK6wnN8k=
+
+Name: assets/Particle/Monster_Effects_604.unity3d
+SHA1-Digest: ncHv3nQuBsOyg2vHHPKxYhkzbLI=
+
+Name: assets/Particle/Monster_Effects_605.unity3d
+SHA1-Digest: TlvFJbj9Y34ZNYeCKQm+aEoNYUY=
+
+Name: assets/Particle/Monster_Effects_606.unity3d
+SHA1-Digest: xCIa1xATfrDx3OqeJrGHMIkvGKg=
+
+Name: assets/Particle/WarEffects.unity3d
+SHA1-Digest: XmT34aSXGzxgBy7WEC/e442mJ44=
+
+Name: assets/Role/001.unity3d
+SHA1-Digest: o79dpsAY1Kt7YIr8wxAFbwlreK8=
+
+Name: assets/Role/002.unity3d
+SHA1-Digest: s/gi//hBDJeLteOxGDir1eaRmco=
+
+Name: assets/Role/003.unity3d
+SHA1-Digest: VtONrNeGn/3llCUH3AciChfdsx8=
+
+Name: assets/Role/004.unity3d
+SHA1-Digest: qFiMwG5600vapFG+ySq3ym4EB1w=
+
+Name: assets/Role/005.unity3d
+SHA1-Digest: YRcQARLH5if83vA0wQB8nn1Q2eM=
+
+Name: assets/Role/006.unity3d
+SHA1-Digest: LmZS/sm0BRyddGNANVzKkQNB1cc=
+
+Name: assets/Role/007.unity3d
+SHA1-Digest: 987IZgq5veikvGMNdCnTPypWTg4=
+
+Name: assets/Role/008.unity3d
+SHA1-Digest: KB/kssZ4FHUNjGzYTrjLAfTtNzs=
+
+Name: assets/Role/009.unity3d
+SHA1-Digest: Y6C+U327F6N5tSUCQ9UNGZE07Po=
+
+Name: assets/Role/010.unity3d
+SHA1-Digest: ExM/G7BupCt92LFWN/c8W3PhN48=
+
+Name: assets/Role/011.unity3d
+SHA1-Digest: QwcgDlr6STIdxaMcoU0xDKm8NaY=
+
+Name: assets/Role/012.unity3d
+SHA1-Digest: hkaXdbjQAUKO+gme5LkBVCuyd4g=
+
+Name: assets/Role/013.unity3d
+SHA1-Digest: T/TDW6hxqnPLCEOmPRrBoMPO3CE=
+
+Name: assets/Role/014.unity3d
+SHA1-Digest: rd7mr/j2AWunUKrOcWpHV0Z+P/M=
+
+Name: assets/Role/015.unity3d
+SHA1-Digest: ZMBPt7t/3/2H8uukDDQXYtHaAvQ=
+
+Name: assets/Role/016.unity3d
+SHA1-Digest: h6ue1JsoeZV6598fBX7/cigigSs=
+
+Name: assets/Role/017.unity3d
+SHA1-Digest: GSmgUvzBeJby48qEHrwQiaIxUKI=
+
+Name: assets/Role/018.unity3d
+SHA1-Digest: Rqs0KjDKHD9eYAn1qXehZPSdr4I=
+
+Name: assets/Role/019.unity3d
+SHA1-Digest: pP0gQ2eaDPNoWSNcbWxy2zIQI4E=
+
+Name: assets/Role/020.unity3d
+SHA1-Digest: FdS+divvJbWr4juhH1DTWZtShVE=
+
+Name: assets/Role/021.unity3d
+SHA1-Digest: js6FzNJ0YM+z2Rx1xcrodo0FXKA=
+
+Name: assets/Role/022.unity3d
+SHA1-Digest: ArpS2HyxN6Z9JXTCiDi2caokRDg=
+
+Name: assets/Role/023.unity3d
+SHA1-Digest: sYCnKInlNh4dX54iQdEP+tYmVoA=
+
+Name: assets/Role/024.unity3d
+SHA1-Digest: xGgfG1WAso7EWAlsER9X7cqvNys=
+
+Name: assets/Role/025.unity3d
+SHA1-Digest: 8qAPkOOT8SoLRRmjpUsvUQtILIQ=
+
+Name: assets/Role/026.unity3d
+SHA1-Digest: PXnGpGczuLyrsANuFbscUeHQ4z0=
+
+Name: assets/Role/027.unity3d
+SHA1-Digest: dlxoXTmtnvSeDZkKqZGbc9sZm8I=
+
+Name: assets/Role/028.unity3d
+SHA1-Digest: 0uJlaXevSzdXmuyHcz/mScUaKIw=
+
+Name: assets/Role/029.unity3d
+SHA1-Digest: r1yd1yByNa0BTjWIIsOR+fodWnM=
+
+Name: assets/Role/030.unity3d
+SHA1-Digest: eBoBy/dmeSrXb8a2r9GfKmlaFIk=
+
+Name: assets/Role/031.unity3d
+SHA1-Digest: QrTMdm3YoTeC+j+a1ciXIWbf/EM=
+
+Name: assets/Role/032.unity3d
+SHA1-Digest: G8yn0Bgy3KTiRonsR3vKjHwExwU=
+
+Name: assets/Role/033.unity3d
+SHA1-Digest: vwcVt5w7eaYOXJ10RJ3cIFYLtk8=
+
+Name: assets/Role/034.unity3d
+SHA1-Digest: 5QiBqMbTLBnoTPWfblDFgseUcF8=
+
+Name: assets/Role/035.unity3d
+SHA1-Digest: 5NWHzQIb8ytlvEyAS1wsNrWRV5s=
+
+Name: assets/Role/036.unity3d
+SHA1-Digest: OdOImsNGFJzNeuGd4OWi9VzmBvg=
+
+Name: assets/Role/037.unity3d
+SHA1-Digest: 6442fZDV184pV1zdDJkzC2iTSrI=
+
+Name: assets/Role/038.unity3d
+SHA1-Digest: zW2kru17oKQ3Pm7CKYcoL+k2aFU=
+
+Name: assets/Role/100.unity3d
+SHA1-Digest: gK916znvwpesksNZ1+7prIrXZNY=
+
+Name: assets/Role/110.unity3d
+SHA1-Digest: zWatWc1fxxDIzc+kegMcGEIoFZs=
+
+Name: assets/Role/200.unity3d
+SHA1-Digest: NNx4u8O8eNDGiup/3ONBwQ6azZ4=
+
+Name: assets/Role/300.unity3d
+SHA1-Digest: bhNbDbNiJR39/52hXHK/AphN574=
+
+Name: assets/Role/3dbutton01.unity3d
+SHA1-Digest: V14n4/WfWF4Bz+iB/XeyUJTH8zI=
+
+Name: assets/Role/3dbutton02.unity3d
+SHA1-Digest: eFl7PUC+1ADxfH3I2vZ5zc1tJV4=
+
+Name: assets/Role/400.unity3d
+SHA1-Digest: 5MebVB2fYV5Eq8lEnx6Zb57qOiw=
+
+Name: assets/Role/410.unity3d
+SHA1-Digest: eyPv9AZzj1JI/yrLcW86iAAt9Uo=
+
+Name: assets/Role/BGM02.unity3d
+SHA1-Digest: P+EK4fJGFX7gJNUuMhA4pWpcKgA=
+
+Name: assets/Role/BGM03.unity3d
+SHA1-Digest: /qVW9XjpIfsieWSfNRV54LbkCRE=
+
+Name: assets/Role/BGM04.unity3d
+SHA1-Digest: W00mmE88u9O7soC6eP9XyxcoXXk=
+
+Name: assets/Role/BGM05.unity3d
+SHA1-Digest: tElyt/YAidjTGHFi9eVxDmHTDVw=
+
+Name: assets/Role/BGM06.unity3d
+SHA1-Digest: EnT6q6KdDQ5p7eBQiU0BNIkHqx8=
+
+Name: assets/Role/BGM07.unity3d
+SHA1-Digest: NH1s3ivf5CcHr/ZC/NPsp4OFqJM=
+
+Name: assets/Role/BGM10.unity3d
+SHA1-Digest: dzRsYMEa6dDVC+OOvLc1JSKdMv0=
+
+Name: assets/Role/BrokenFO_041.unity3d
+SHA1-Digest: NtXzfN3qo6tPAIL8fjjKtBH9sSc=
+
+Name: assets/Role/BrokenFO_042.unity3d
+SHA1-Digest: rMaK0++6BCJwLxmeYsdiWCnMYUs=
+
+Name: assets/Role/Castle_011.unity3d
+SHA1-Digest: dpDY3KbXy5itbFU9n71X3aQfDtc=
+
+Name: assets/Role/Castle_012.unity3d
+SHA1-Digest: JeiqRSdAVjDB1qtUknMDekXT5UY=
+
+Name: assets/Role/Castle_013.unity3d
+SHA1-Digest: hiYLgq3iOm/F8muUGz2HFkF+9Y0=
+
+Name: assets/Role/Castle_014.unity3d
+SHA1-Digest: muZ/J1EgNnQYXBki5wGMoFCjDsA=
+
+Name: assets/Role/Castle_015.unity3d
+SHA1-Digest: Gegx45wmRZ1hl+zTNWnYgPZKMSA=
+
+Name: assets/Role/Castle_016.unity3d
+SHA1-Digest: WWOdMJUtgTdu1zin+i49oWoiXbk=
+
+Name: assets/Role/Castle_021.unity3d
+SHA1-Digest: pqS9Pl+ox7zBVsmN/SBWr5+u9wg=
+
+Name: assets/Role/Castle_022.unity3d
+SHA1-Digest: UdF+cZcj+wUFU2gcaKWK1u7XmEo=
+
+Name: assets/Role/Castle_023.unity3d
+SHA1-Digest: 7THvPCHG+jhZgn15/QAqvrhCN8E=
+
+Name: assets/Role/Castle_024.unity3d
+SHA1-Digest: 1gh0wEmpuiIpXgmwMM9315B4SUE=
+
+Name: assets/Role/Castle_025.unity3d
+SHA1-Digest: 8dGRuK1dqAc2DmDqD6UW29T+l7Q=
+
+Name: assets/Role/Castle_026.unity3d
+SHA1-Digest: 29Yjpd4c+du5rT8jpEDM3SRWSC0=
+
+Name: assets/Role/Castle_031.unity3d
+SHA1-Digest: m+RvdxPNeuwlT+sYmkUxauvI17A=
+
+Name: assets/Role/Castle_032.unity3d
+SHA1-Digest: abO742BMyVPdMga6X7FlWOUM1Tw=
+
+Name: assets/Role/Castle_033.unity3d
+SHA1-Digest: wofIEhNtWkQqvzGNAs7tM7mga9k=
+
+Name: assets/Role/Castle_034.unity3d
+SHA1-Digest: y52b221WAgbVs2Jf4YCC/pZD/Eo=
+
+Name: assets/Role/Castle_035.unity3d
+SHA1-Digest: kPl5Ib/f/9ycJT3cQzEbNJCMbCE=
+
+Name: assets/Role/Castle_036.unity3d
+SHA1-Digest: 4DC8OTTB+R73vbm4GgADyNzjjdI=
+
+Name: assets/Role/Castle_041.unity3d
+SHA1-Digest: tPEbb1wRkNoKLsfJlwZ4nQp3W8k=
+
+Name: assets/Role/Castle_042.unity3d
+SHA1-Digest: dWvnBn/K3M1KWaTYtUpewVGWP8g=
+
+Name: assets/Role/Castle_043.unity3d
+SHA1-Digest: cuuhI7seQeafnjRjYpFLB+ZtO8U=
+
+Name: assets/Role/Castle_044.unity3d
+SHA1-Digest: nl1PRjP+Uh6kvmrT4lbqydkE3Tw=
+
+Name: assets/Role/Castle_045.unity3d
+SHA1-Digest: o0puRzRvk14shaLa+Y8mkDW4w/U=
+
+Name: assets/Role/Castle_046.unity3d
+SHA1-Digest: +0BU27lwkktZcz/JAN2fw+oj8lg=
+
+Name: assets/Role/FO_Arrow.unity3d
+SHA1-Digest: TS7si7coOdD0BZE6+WYC0R3i8+k=
+
+Name: assets/Role/FO_Bomb.unity3d
+SHA1-Digest: XYbxOJLwVAAklArz7wQe/IeCfcY=
+
+Name: assets/Role/FO_CLV1_Arrow.unity3d
+SHA1-Digest: oLkv9ZNqgnUbO+V1Uk8RY1jOBpY=
+
+Name: assets/Role/FO_FireStone.unity3d
+SHA1-Digest: G9k0xKIf35aCnlFL39KhywXa70E=
+
+Name: assets/Role/FO_Stone.unity3d
+SHA1-Digest: 11Zf4Y4lFdN8T1BI7FIGOBOKjb8=
+
+Name: assets/Role/FO_TArrow.unity3d
+SHA1-Digest: 6klgh1GIUfdr5hXCgys7dLGn2c4=
+
+Name: assets/Role/FlowLinePrefab.unity3d
+SHA1-Digest: 7ebGMBcVfCcgfieS3v3mLj+M1lc=
+
+Name: assets/Role/Priest.unity3d
+SHA1-Digest: jzFL5a2h0VsohvS8uXH1b+s5W94=
+
+Name: assets/Role/RewardBtn.unity3d
+SHA1-Digest: tpPqLpKsPRK/G1azUc/c6g6FYtI=
+
+Name: assets/Role/War01.unity3d
+SHA1-Digest: 8GOPdVwBMGlPFGyd25MdjPNoKQ4=
+
+Name: assets/Role/WarObj_001.unity3d
+SHA1-Digest: zDdtvtZ+eXX4aIWEe0WmxUdrfSw=
+
+Name: assets/Role/cage.unity3d
+SHA1-Digest: b+61jgaWOvg5HxtTACGsmSBJOjg=
+
+Name: assets/Role/chest.unity3d
+SHA1-Digest: 9x1W+aqpku60l8JhBwbMxj764gU=
+
+Name: assets/Role/darkbox.unity3d
+SHA1-Digest: PDpYnkW7M5ufxfLpTOM6gGo21+4=
+
+Name: assets/Role/gamblebox.unity3d
+SHA1-Digest: ym27WfSw5oM/i50plhmWcawf/1k=
+
+Name: assets/Role/hero_00001.unity3d
+SHA1-Digest: dQ0VmViL8nWSbTBp1zg6FFoX1uE=
+
+Name: assets/Role/hero_00002.unity3d
+SHA1-Digest: sV3rfovyazLG0XhSE6RSxk0Khqs=
+
+Name: assets/Role/hero_00003.unity3d
+SHA1-Digest: vE76i1AUVRy1BxRbt3RM5i+MhhM=
+
+Name: assets/Role/hero_00004.unity3d
+SHA1-Digest: cvpcEzj2j17o0Yb6c3EUDVowyXU=
+
+Name: assets/Role/hero_00005.unity3d
+SHA1-Digest: j6YcNALPvZHSUT+E87k7wGj6pRM=
+
+Name: assets/Role/hero_00006.unity3d
+SHA1-Digest: k7jLCSF7c61PssGc/SqIK4dMIMc=
+
+Name: assets/Role/hero_00007.unity3d
+SHA1-Digest: XGMlixHsrgvm215vePE290AI038=
+
+Name: assets/Role/hero_00008.unity3d
+SHA1-Digest: L8RdvGmbO11cczL1QvUqw3IJiIs=
+
+Name: assets/Role/hero_00009.unity3d
+SHA1-Digest: 9YNw7ML3vDCAyfXbGPJcA1pMK60=
+
+Name: assets/Role/hero_00010.unity3d
+SHA1-Digest: icZgBc2C3S7TsCg5FSruxpgrZFY=
+
+Name: assets/Role/hero_00011.unity3d
+SHA1-Digest: UPNNIlEjK2/ZaIJlVtkw8i0qGm8=
+
+Name: assets/Role/hero_00012.unity3d
+SHA1-Digest: lQB29CqLTqwR0+WeBzOXoyX87gM=
+
+Name: assets/Role/hero_00013.unity3d
+SHA1-Digest: iazCVXzF2SFEHeyKD43H0FQSiDw=
+
+Name: assets/Role/hero_00014.unity3d
+SHA1-Digest: SSNiA3KcpPxyjLeb9ngmIU87Ik0=
+
+Name: assets/Role/hero_00015.unity3d
+SHA1-Digest: 1Qx+IL0YEsf+J636s0DLLj6GFb4=
+
+Name: assets/Role/hero_00016.unity3d
+SHA1-Digest: X5MwrUuf2R8ukuS01TSooy3AjjI=
+
+Name: assets/Role/hero_00017.unity3d
+SHA1-Digest: nWy7v+bJcHnJOiceruxA7CgV+0Q=
+
+Name: assets/Role/hero_00018.unity3d
+SHA1-Digest: nuMMOkEa2w2AscfjFOXOpgxsXUM=
+
+Name: assets/Role/hero_00019.unity3d
+SHA1-Digest: zFdMihnP/7OCzlgXQDuhHk2ROpI=
+
+Name: assets/Role/hero_00020.unity3d
+SHA1-Digest: HTYoTyKuHH6d2l13Zxccp/boFp0=
+
+Name: assets/Role/hero_00021.unity3d
+SHA1-Digest: Vqw5ktxOOoSkGxAVrBIQS0QojXk=
+
+Name: assets/Role/hero_00022.unity3d
+SHA1-Digest: 8DBBAeIQuqjAKc4Vs0wMCFAovYY=
+
+Name: assets/Role/hero_00023.unity3d
+SHA1-Digest: /UQdj7l994KPICD2qSejMdalG4k=
+
+Name: assets/Role/hero_00024.unity3d
+SHA1-Digest: M3F237P1fnpL+0TP0zEnvVTb6hs=
+
+Name: assets/Role/hero_00025.unity3d
+SHA1-Digest: ByxkHLBacg/5gpUmpfeiZptCu7c=
+
+Name: assets/Role/hero_00026.unity3d
+SHA1-Digest: UlpJEfbJS0oA1t6Qngn0tDDik6o=
+
+Name: assets/Role/hero_00027.unity3d
+SHA1-Digest: 4c6NW2iDzndOeTQRFTqYL6t4wN0=
+
+Name: assets/Role/hero_00028.unity3d
+SHA1-Digest: gkKkZrNlUXUW6h3qT+w1emCHqmw=
+
+Name: assets/Role/hero_00029.unity3d
+SHA1-Digest: yAHNkeWu5ow4aC3o3xoxqhRJefg=
+
+Name: assets/Role/hero_00030.unity3d
+SHA1-Digest: vkWefzt0Vk6jYLEeUp7/wdUQcuI=
+
+Name: assets/Role/hero_00100.unity3d
+SHA1-Digest: MlJpszxkAJbncitvNwKKzA2BxoM=
+
+Name: assets/Role/hero_00201.unity3d
+SHA1-Digest: tztPVft0SWh1+Hny9Xk2clrwPCY=
+
+Name: assets/Role/hero_00202.unity3d
+SHA1-Digest: GLvcmWAzumYYCxf4+D2GujWVrVY=
+
+Name: assets/Role/hero_00203.unity3d
+SHA1-Digest: 0MlMzDT3g49EZ6LxZ783j6cx+q4=
+
+Name: assets/Role/hero_00204.unity3d
+SHA1-Digest: qXj8QJG4OBOaxEtyhf+PdCP3dYI=
+
+Name: assets/Role/hero_00205.unity3d
+SHA1-Digest: E/P2yAZM0No8SLC3GtI7ov5ow0k=
+
+Name: assets/Role/hero_00206.unity3d
+SHA1-Digest: EbUIAtjXi1jI2XcvioQ+j8tWATc=
+
+Name: assets/Role/hero_00207.unity3d
+SHA1-Digest: P8tBzEPEeHd/bou+QTSniKQZuOU=
+
+Name: assets/Role/hero_00208.unity3d
+SHA1-Digest: v3xUMwEoe7gdifN4eP4eqImOlQw=
+
+Name: assets/Role/hero_00209.unity3d
+SHA1-Digest: V5DioEChyxb4OLNh3x8hiylkJSU=
+
+Name: assets/Role/hero_00210.unity3d
+SHA1-Digest: 1IWgu9Dx86HVFqvNS1w8R/7Q+Cw=
+
+Name: assets/Role/hero_00224.unity3d
+SHA1-Digest: wBAY2aiE/ddTGYs9DUg+G18QtA4=
+
+Name: assets/Role/hero_00225.unity3d
+SHA1-Digest: YaZ7O17dB0uVl81NAOdmBsc4phw=
+
+Name: assets/Role/hero_00226.unity3d
+SHA1-Digest: nlFYfxXxlTExf0k+WgV9rYzePvA=
+
+Name: assets/Role/hero_00227.unity3d
+SHA1-Digest: 1mtBQdvOtLns+jSOLSDxvRZE+P4=
+
+Name: assets/Role/hero_00228.unity3d
+SHA1-Digest: S7UmT+5PstbY8N9OWhN48zM26mw=
+
+Name: assets/Role/hero_00229.unity3d
+SHA1-Digest: WUF3fk2qt2GP45/2s4pBN4lonj0=
+
+Name: assets/Role/hero_00230.unity3d
+SHA1-Digest: HEmvPPKXzta9esMqDzMJmWJ+caI=
+
+Name: assets/Role/hero_00231.unity3d
+SHA1-Digest: 4T8aZDz1TF0L+Kd7hOAjs4GdZOU=
+
+Name: assets/Role/hero_00232.unity3d
+SHA1-Digest: AAgnozdx3D777vG/I06FdEAYDxQ=
+
+Name: assets/Role/npccastle.unity3d
+SHA1-Digest: q8C5/9YzWv6OqUErupxo9GHel1w=
+
+Name: assets/Role/pet_contract.unity3d
+SHA1-Digest: J8F3rbQvdkN6w4xSM9B3vEZQeSc=
+
+Name: assets/Role/soldier_011.unity3d
+SHA1-Digest: mqleDC61GqtBP55sbXPUv54Trxc=
+
+Name: assets/Role/soldier_012.unity3d
+SHA1-Digest: pm2oNty1UwaaasEgmNOkLncMbcI=
+
+Name: assets/Role/soldier_013.unity3d
+SHA1-Digest: WLu2FrRDjXkkWikUfbMupC5TWsA=
+
+Name: assets/Role/soldier_014.unity3d
+SHA1-Digest: VVulJTqhOYoFjMQ+RFk3ltdFrus=
+
+Name: assets/Role/soldier_021.unity3d
+SHA1-Digest: iKwxEBRm6PTyu/PtmdjlE4foYlA=
+
+Name: assets/Role/soldier_022.unity3d
+SHA1-Digest: yVZ2qiZI3DPZrjMKr3g5eKwBE/I=
+
+Name: assets/Role/soldier_023.unity3d
+SHA1-Digest: Vaf8d0CGtbhEkifzYOONkSD8IO8=
+
+Name: assets/Role/soldier_024.unity3d
+SHA1-Digest: ZKUPh0fXku6dQbBK+7ZEVACaNX4=
+
+Name: assets/Role/soldier_031.unity3d
+SHA1-Digest: Oc8GjGBlAZZp5cdudeJ7GzOPWVM=
+
+Name: assets/Role/soldier_032.unity3d
+SHA1-Digest: B+PITnVjNnqRQreClNhHhbySKxI=
+
+Name: assets/Role/soldier_033.unity3d
+SHA1-Digest: hfPihn7I+cSHBCssP+/XWsHJZv4=
+
+Name: assets/Role/soldier_034.unity3d
+SHA1-Digest: iv+tP0NiQrypY5VKfvBeMIvzKC8=
+
+Name: assets/Role/soldier_041.unity3d
+SHA1-Digest: Pj+pk6caHr/ixG3rIkMIxhu6Ie8=
+
+Name: assets/Role/soldier_042.unity3d
+SHA1-Digest: LnLPMNd7sGHtueO52oZiHmstGE4=
+
+Name: assets/Role/soldier_043.unity3d
+SHA1-Digest: NzVUfUwdvqhqkjkx7cLboDD15Jc=
+
+Name: assets/Role/soldier_044.unity3d
+SHA1-Digest: C7/GY1qe/6rNbZIxbH+u8YiDTho=
+
+Name: assets/Role/soldiers_tex.unity3d
+SHA1-Digest: BPMBJamhydAKNG58y6JqaaFkO08=
+
+Name: assets/Role/soldiers_tex_2.unity3d
+SHA1-Digest: dbd5GtEt3chb7UdEL/biZj/P1R0=
+
+Name: assets/Role/soldiers_tex_3.unity3d
+SHA1-Digest: /jL0EavGQBbAqLXUKxefFc4lt4M=
+
+Name: assets/Role/wmap_bbt.unity3d
+SHA1-Digest: DunEO1ST4qr58mjE0nJaY7h1vAo=
+
+Name: assets/Role/wmap_sbt.unity3d
+SHA1-Digest: Cz9ck9Tz1FN9Bp2OEK15yuuZcac=
+
+Name: assets/Role/wmapline_m02.unity3d
+SHA1-Digest: vDLf1GQ6P8CoW1BbiMBXQ7zUl98=
+
+Name: assets/Role/wmapline_m03.unity3d
+SHA1-Digest: L8DM+9gKjh/u9Wv8x70H2YSecp0=
+
+Name: assets/Role/wmapline_m04.unity3d
+SHA1-Digest: NkqWXGmiG7tk3lFriJZre6YFmbA=
+
+Name: assets/Role/wmapline_m05.unity3d
+SHA1-Digest: BwBVvfLrtNiZg64PzvJKJTFTxrk=
+
+Name: assets/Role/wmapline_m06.unity3d
+SHA1-Digest: 6ieMV6WVqehoFEeEgzmpGEPdj4s=
+
+Name: assets/Role/wmapline_m07.unity3d
+SHA1-Digest: 2BGebgMPgvHK8MWWp9yJ51hh5DE=
+
+Name: assets/Role/wmapline_m08.unity3d
+SHA1-Digest: 9I0ZBoRhESB4Edbmn6iCTCf2Tm8=
+
+Name: assets/Role/wmapline_m09.unity3d
+SHA1-Digest: 6c76tqyru99HLdlLG8VK6RWOZuo=
+
+Name: assets/Scene/TMAP_001.unity3d
+SHA1-Digest: rKGGLKlZGu5yhVKZ20bp0I77Eac=
+
+Name: assets/Scene/TMAP_001_1.unity3d
+SHA1-Digest: mYf6/Zd4rL/plastGkUnCGPKVes=
+
+Name: assets/Scene/TMAP_001_2.unity3d
+SHA1-Digest: FEBGsSjH9ogBPkLhU0WOVnTKnJM=
+
+Name: assets/Scene/TMAP_001_3.unity3d
+SHA1-Digest: +/9dXVMhM9cUcUy2FwRYtndAr68=
+
+Name: assets/Scene/TMAP_002.unity3d
+SHA1-Digest: FqtGBJ14Lwq4mTAtPsFW4LC0WT0=
+
+Name: assets/Scene/TMAP_002_1.unity3d
+SHA1-Digest: gMtxPxbSk86h/eGzvyF1FrJdJOE=
+
+Name: assets/Scene/TMAP_002_2.unity3d
+SHA1-Digest: 4V0AZFYKiFEkgD6C7S20c2Qhtkw=
+
+Name: assets/Scene/TMAP_002_3.unity3d
+SHA1-Digest: whOIE25L2rYcwDONMl6Epo88x5k=
+
+Name: assets/Scene/TMAP_003.unity3d
+SHA1-Digest: VWEapea05jErWk6fMEJzOgFktUY=
+
+Name: assets/Scene/TMAP_003_1.unity3d
+SHA1-Digest: kRhvIVr+kiLyj0Imqd+yYPrltkc=
+
+Name: assets/Scene/TMAP_003_2.unity3d
+SHA1-Digest: Al7NvrSDgdRz0uxb6QxZZAxG7pk=
+
+Name: assets/Scene/TMAP_003_3.unity3d
+SHA1-Digest: JyqI7kce8E0uPAKvVUKifXVn2O4=
+
+Name: assets/Scene/TMAP_004.unity3d
+SHA1-Digest: 20qNi0tun8p95hkBz0KXJrOrUDw=
+
+Name: assets/Scene/TMAP_004_1.unity3d
+SHA1-Digest: P8ZXqumybkMcvn4wxBoAaldwwo8=
+
+Name: assets/Scene/TMAP_004_2.unity3d
+SHA1-Digest: jGiuDm389TsTQ9sQKjHULiXRsAI=
+
+Name: assets/Scene/TMAP_004_3.unity3d
+SHA1-Digest: aCpSQVsDLEwFn+XYmN6fzhSRvf0=
+
+Name: assets/Scene/map_001.unity3d
+SHA1-Digest: 586eg2Q3L+xwOinlytO6paL00dA=
+
+Name: assets/Scene/map_001_1.unity3d
+SHA1-Digest: zzMO+kevbDbtHg/1qMrOQK/x1Is=
+
+Name: assets/Scene/map_001_2.unity3d
+SHA1-Digest: RBPX967/uZQkTlAXKwXHlj+K9Ow=
+
+Name: assets/Scene/map_001_3.unity3d
+SHA1-Digest: pxwK4PzBwcrTIlkde8KuUBNhzf8=
+
+Name: assets/Scene/map_002.unity3d
+SHA1-Digest: d+oqLnVibqwy3kkHkB9TCLw9Sr4=
+
+Name: assets/Scene/map_002_1.unity3d
+SHA1-Digest: W1d7WK2eZElln+4R8weQTnE73GU=
+
+Name: assets/Scene/map_002_2.unity3d
+SHA1-Digest: PltLL2MwdJDTCNhrL1sJV0zVkZQ=
+
+Name: assets/Scene/map_002_3.unity3d
+SHA1-Digest: w2gE9NALit1VVf7mKBkbWjrvC5s=
+
+Name: assets/Scene/map_003.unity3d
+SHA1-Digest: F4uA5yC+jItxUsv6cjXBXcyfQBs=
+
+Name: assets/Scene/map_003_1.unity3d
+SHA1-Digest: LDfbx8wW5pJoK3zdQ5jF1E3Rm3I=
+
+Name: assets/Scene/map_003_2.unity3d
+SHA1-Digest: JH8fHmJhnATxk+gX1cZ5X0snaHA=
+
+Name: assets/Scene/map_003_3.unity3d
+SHA1-Digest: vevPUkfC493iRrzc0A2TOwIb62Q=
+
+Name: assets/Scene/map_004.unity3d
+SHA1-Digest: SR/E0hfSSzQx2C2pmEbIqYVyEzU=
+
+Name: assets/Scene/map_004_1.unity3d
+SHA1-Digest: QCFgB+7WO4b/vPQU63y8dZaIRUM=
+
+Name: assets/Scene/map_004_2.unity3d
+SHA1-Digest: V3mm1ymYgQ4EGyhmd0CywdAIXqk=
+
+Name: assets/Scene/map_004_3.unity3d
+SHA1-Digest: Z1ZUhaY17dTcb7qTfNpgoYGeAR8=
+
+Name: assets/Scene/map_005.unity3d
+SHA1-Digest: pcVfdPUhl319ovGS06bCdxFAOZM=
+
+Name: assets/Scene/map_005_1.unity3d
+SHA1-Digest: eS4cG2mTyRc+QU1YXCbacfokCKk=
+
+Name: assets/Scene/map_005_2.unity3d
+SHA1-Digest: DWIIzAqB20/nmulcnAKPdQD5ty4=
+
+Name: assets/Scene/map_005_3.unity3d
+SHA1-Digest: AEHGvU20BRCIfSeAC5MCCTY9cUM=
+
+Name: assets/Scene/map_007.unity3d
+SHA1-Digest: g8qCtCESbnDWGRzOVy/y/847lF8=
+
+Name: assets/Scene/map_007_1.unity3d
+SHA1-Digest: TrJ+dQeDmMh8dgPcfnmEo4QQa7o=
+
+Name: assets/Scene/map_007_2.unity3d
+SHA1-Digest: DMAoBx+Q4lg5N8/PlsNEL+EynaY=
+
+Name: assets/Scene/map_007_3.unity3d
+SHA1-Digest: Aiz21wkdr/NzEo/HiKEbMj6SuJY=
+
+Name: assets/Scene/map_008.unity3d
+SHA1-Digest: z9WDaws/z53xjKc5/AGZ9wlAnQk=
+
+Name: assets/Scene/map_008_1.unity3d
+SHA1-Digest: gbb4xlBFbQKT5uv8uoSreTxr53g=
+
+Name: assets/Scene/map_008_2.unity3d
+SHA1-Digest: E83ij1HdfhnYohOwb5cfFzfzVlw=
+
+Name: assets/Scene/map_008_3.unity3d
+SHA1-Digest: 84FnngG4iqcC40pE9LV8l0BJjKw=
+
+Name: assets/Scene/map_009.unity3d
+SHA1-Digest: +0iULcaZiO0afSyP8FX3yVcwsFA=
+
+Name: assets/Scene/map_009_1.unity3d
+SHA1-Digest: LvOqgMf3kH+Rqav9idFLMl6byGQ=
+
+Name: assets/Scene/map_009_2.unity3d
+SHA1-Digest: TQ031WuHnaE8uqK2b//xf760Q4k=
+
+Name: assets/Scene/map_009_3.unity3d
+SHA1-Digest: OgFsUYiWy9zQhihgHFpR2WZ4vMg=
+
+Name: assets/Scene/map_099.unity3d
+SHA1-Digest: RQAqeTPEp4xs/8XRiK+wnEo//jc=
+
+Name: assets/Scene/map_099_1.unity3d
+SHA1-Digest: 8RgCmYIx/+PTqhHpHKPt0FfFHBo=
+
+Name: assets/Scene/map_099_2.unity3d
+SHA1-Digest: QDbLSSwSVyyOc/U+/c4FDs42tDQ=
+
+Name: assets/Scene/map_099_3.unity3d
+SHA1-Digest: u1ZnthPoC3gJmJCcKDy5fvUjTq8=
+
+Name: assets/Scene/map_101.unity3d
+SHA1-Digest: kWiTCiwEpIW2JculepOkfSSSJuo=
+
+Name: assets/Scene/map_101_1.unity3d
+SHA1-Digest: BTUVg4s3Dw1YKJ+8SyGwTlwhtLA=
+
+Name: assets/Scene/map_101_2.unity3d
+SHA1-Digest: QaKOe9s8/IZcrCfSuPjPoDKOdrE=
+
+Name: assets/Scene/map_101_3.unity3d
+SHA1-Digest: WLFOOrRZ/eCn/P4bInxGYYtfXQg=
+
+Name: assets/Scene/map_102.unity3d
+SHA1-Digest: XFWgsSS/2OJElfHOn3rYB7Ygtow=
+
+Name: assets/Scene/map_102_1.unity3d
+SHA1-Digest: 4TkCSehudRsqETkLeeLbc8SlFrY=
+
+Name: assets/Scene/map_102_2.unity3d
+SHA1-Digest: x/5PgukYTpG3D+o6yWc3cdC6GrI=
+
+Name: assets/Scene/map_102_3.unity3d
+SHA1-Digest: ApuWsE/zmkK0qKez9qZOwuoSpOE=
+
+Name: assets/Scene/map_103.unity3d
+SHA1-Digest: 9yYp1Jeh0tCJ9+ja8jnuVAs1d0Y=
+
+Name: assets/Scene/map_103_1.unity3d
+SHA1-Digest: hiCaiHx8bTZM8+Xw9BdiLTD5odE=
+
+Name: assets/Scene/map_103_2.unity3d
+SHA1-Digest: BGyNbqQFO8g/LlvL7RhFPF7E8lk=
+
+Name: assets/Scene/map_103_3.unity3d
+SHA1-Digest: Fg4RSCL4OswODaguzPpzllGFAQY=
+
+Name: assets/Scene/map_104.unity3d
+SHA1-Digest: iA6qvL+3yUfcOHKaLx/JbLT9Puo=
+
+Name: assets/Scene/map_104_1.unity3d
+SHA1-Digest: OvMSrGRySmj3m8t/4/VJHd/PJ7A=
+
+Name: assets/Scene/map_104_2.unity3d
+SHA1-Digest: ww3mkzXj+UQfJS7O9QZFVs/Q7KY=
+
+Name: assets/Scene/map_104_3.unity3d
+SHA1-Digest: mHhiP/GhEqhqP5jeDt+ky9A3tHE=
+
+Name: assets/Scene/map_105.unity3d
+SHA1-Digest: 4v9XvmdSneFGIEH/IYqg6Eynhg0=
+
+Name: assets/Scene/map_105_1.unity3d
+SHA1-Digest: xMpIBrKcl/k5B4zhNya1enV0JeI=
+
+Name: assets/Scene/map_105_2.unity3d
+SHA1-Digest: Nh1X3KeWyyEFlrE+6Xd9EBJdje8=
+
+Name: assets/Scene/map_105_3.unity3d
+SHA1-Digest: ZOvw8GEyPgurxZVn5LMPPS0ATNw=
+
+Name: assets/Scene/map_107.unity3d
+SHA1-Digest: DNJIO0WqboeoTCsSMazaUFoHAX4=
+
+Name: assets/Scene/map_107_1.unity3d
+SHA1-Digest: UPc/x1KydWgC788rhoWE+LZ09L0=
+
+Name: assets/Scene/map_107_2.unity3d
+SHA1-Digest: zs2G/vZ1njl8aPtKRl8z3qgzHE0=
+
+Name: assets/Scene/map_107_3.unity3d
+SHA1-Digest: TS1MKVRSX5yWe/eOmrZ2dlGP/ls=
+
+Name: assets/Scene/map_108.unity3d
+SHA1-Digest: TrG38M4qkrtrANAbFE5ZUVSG5Sw=
+
+Name: assets/Scene/map_108_1.unity3d
+SHA1-Digest: gpiVm0rDWrDcO8FutfldYNErS10=
+
+Name: assets/Scene/map_108_2.unity3d
+SHA1-Digest: FGzX77N8cFmZ7a40t5zzmsX5J1k=
+
+Name: assets/Scene/map_108_3.unity3d
+SHA1-Digest: SipaA6/Hht+ya/fMS8QfgqC7V04=
+
+Name: assets/Scene/map_109.unity3d
+SHA1-Digest: o2j5ipHxuK4nfqSGNUKqEQxQnGE=
+
+Name: assets/Scene/map_109_1.unity3d
+SHA1-Digest: V/NwrzIaRN7nEugaZtbLGY+irSI=
+
+Name: assets/Scene/map_109_2.unity3d
+SHA1-Digest: jekS72bFsn6N6JKOrqePs9D/Hw0=
+
+Name: assets/Scene/map_109_3.unity3d
+SHA1-Digest: 4yH1ePU9U5u37HnQS3Ik7vE4C78=
+
+Name: assets/Scene/wall.unity3d
+SHA1-Digest: TrPGxLZmSgFyFmFEE5eH1/7Odt8=
+
+Name: assets/Scene/wmap.unity3d
+SHA1-Digest: 1H4t1Irvxt8k38izS4E57RralAM=
+
+Name: assets/Scene/wmap_1.unity3d
+SHA1-Digest: IIuwf4V/m983ruZX3QtV/Ue+8KA=
+
+Name: assets/UI/ActivityWindow.unity3d
+SHA1-Digest: itD8Mf4ScVwk0AqKrIBavyeOLPU=
+
+Name: assets/UI/AudioAsset.unity3d
+SHA1-Digest: diPEM14KxcazhXFCt00XJ1ASnJI=
+
+Name: assets/UI/BCProjector.unity3d
+SHA1-Digest: Qc1IjV8fnAUijW8ViMf063RU8Cw=
+
+Name: assets/UI/BattleMessage.unity3d
+SHA1-Digest: 70SFNIAXAL73dJPhsdW1jNhnVA0=
+
+Name: assets/UI/Building.unity3d
+SHA1-Digest: XErJKKG4Tc/RMnM4bpLhHh4IA38=
+
+Name: assets/UI/BuildingWindow.unity3d
+SHA1-Digest: KoV1IWoS6Pab6NVvs4B2NtqO3w4=
+
+Name: assets/UI/ChallegeFrame.unity3d
+SHA1-Digest: jB8MzNmhiMCfduWJj5B8eC/5GlA=
+
+Name: assets/UI/ChatBox.unity3d
+SHA1-Digest: 1CqMbM4njf+XXsBeXxWSWMJD5/s=
+
+Name: assets/UI/CustomPanel.unity3d
+SHA1-Digest: LskGTtf3y+icFMhyGfQDMicdCyw=
+
+Name: assets/UI/DVFont.unity3d
+SHA1-Digest: ocFL0I5EUU/I8bbHlXoVc5NjCcw=
+
+Name: assets/UI/Emoji_icon_00000.unity3d
+SHA1-Digest: 4b8a5+u4OF2eh5k/N2kQ2ZLI1sg=
+
+Name: assets/UI/Emoji_icon_00001.unity3d
+SHA1-Digest: ou93zQvFyrTeuO+0SSpV4GVxTwY=
+
+Name: assets/UI/Emoji_icon_00002.unity3d
+SHA1-Digest: nm19pH2K8xfcRVjpQhkhk27yY/s=
+
+Name: assets/UI/Emoji_icon_00003.unity3d
+SHA1-Digest: o+Q9Nu/lzrKqqDPYxLG4aVQEWgY=
+
+Name: assets/UI/Emoji_icon_00004.unity3d
+SHA1-Digest: 12Bmhq40XCWjxWKzUk0hwStqeEc=
+
+Name: assets/UI/Emoji_icon_00005.unity3d
+SHA1-Digest: S1ak1agwBXaIjnCLghI0AwZqPeo=
+
+Name: assets/UI/Emoji_icon_00006.unity3d
+SHA1-Digest: cGg5lmI/ucbr7f2mKGyu0qunH5w=
+
+Name: assets/UI/Emoji_icon_00007.unity3d
+SHA1-Digest: 7y5iBpDP983IfjZ6C2NsjWT8Jvo=
+
+Name: assets/UI/Emoji_icon_65535.unity3d
+SHA1-Digest: nJHshwEGHcECAUJ+BmrmgPz8oqU=
+
+Name: assets/UI/EnemyLittleYolk.unity3d
+SHA1-Digest: /P15xzjkARhWtN/SmrVm4Z4zP40=
+
+Name: assets/UI/Festival_icon_001.unity3d
+SHA1-Digest: K1TUx1qyu3m4vyG4Vb8OtU+htLk=
+
+Name: assets/UI/Festival_icon_002.unity3d
+SHA1-Digest: RC9lW0WswHjPFaWlNMEZTXSxbyQ=
+
+Name: assets/UI/FootBallSprites.unity3d
+SHA1-Digest: VD/Jf43wUD5ue7cM2apjVV7hnLo=
+
+Name: assets/UI/KDUnit.unity3d
+SHA1-Digest: 295zLhKUhGR64l6KIys8WoSt5rI=
+
+Name: assets/UI/LeagueGO_icon.unity3d
+SHA1-Digest: 2OYhiCETLh4nRsl6yYs5NNEUBO8=
+
+Name: assets/UI/LittleYolk.unity3d
+SHA1-Digest: WNOhzkTXyayx+DAqaW1TzrT4zcs=
+
+Name: assets/UI/LittleYolk_010.unity3d
+SHA1-Digest: Fk++wLsezaYrAjm/rw/7IWBBEgE=
+
+Name: assets/UI/Mall_0.unity3d
+SHA1-Digest: qe8Q4lzT65KuXMpLWRPLEt7BkL0=
+
+Name: assets/UI/ManagerAsset.unity3d
+SHA1-Digest: We9YKywuAh4hKmx6bUORpQyD3wQ=
+
+Name: assets/UI/ManagerAsset2.unity3d
+SHA1-Digest: ANJfVbswPNw2cCZONsr2cPsc75E=
+
+Name: assets/UI/MapNPCHead_50001.unity3d
+SHA1-Digest: rx+gucnStUt6Ex3WrAejhXSMxEQ=
+
+Name: assets/UI/MapTileGraphic.unity3d
+SHA1-Digest: 8ko4+oZJqnLToAyOZv0R+USvOdk=
+
+Name: assets/UI/Map_NPC_Blood.unity3d
+SHA1-Digest: JjqRArlEsSxuNORGQHn0w5gW/xw=
+
+Name: assets/UI/NPC_002.unity3d
+SHA1-Digest: 50V0scT2EwV5e2FAIr7iCBiOAMI=
+
+Name: assets/UI/PlayerBar.unity3d
+SHA1-Digest: Jchs7ym/IWYTODAzzrfJI9s9sXo=
+
+Name: assets/UI/SoccerUnit.unity3d
+SHA1-Digest: x06K4xCiC8/J4HSDkbWnjXSmV1U=
+
+Name: assets/UI/SpeciallyEffect.unity3d
+SHA1-Digest: EsDP7GSR3ERNkwDw2nW+PPoWnkQ=
+
+Name: assets/UI/TTFFont.unity3d
+SHA1-Digest: 1AF1J9OQ2gi2fgfT8Xr+Uc0GVFw=
+
+Name: assets/UI/TileBase.unity3d
+SHA1-Digest: 01bzGtCTdOmkTSD5BoRRZzlbk/0=
+
+Name: assets/UI/Tower.unity3d
+SHA1-Digest: zvNuV+kqPiPNBBGWq6DwchnpsAA=
+
+Name: assets/UI/Transitions1.unity3d
+SHA1-Digest: ozUXWydlW023JsPhCB+4bzseN28=
+
+Name: assets/UI/Transitions2.unity3d
+SHA1-Digest: VfSRvgf9dCkp+1/15lI+LGeG3mA=
+
+Name: assets/UI/UIActivity.unity3d
+SHA1-Digest: qo4ZELRmfy2Y2sGlcZuN/iLuPtA=
+
+Name: assets/UI/UIActivity2.unity3d
+SHA1-Digest: Om7zq8cfaRSLRE+gndbhkE5/XZk=
+
+Name: assets/UI/UIActivity3.unity3d
+SHA1-Digest: 183n+JbWoSTTT7A1HwPF2AmYHF0=
+
+Name: assets/UI/UIAlchemy.unity3d
+SHA1-Digest: Fpa6gyc7Vj9yPWAVZydLQT2HM00=
+
+Name: assets/UI/UIAllianceBattle.unity3d
+SHA1-Digest: RVl1a2FHxSZuqV0RCA+2T9F4/TE=
+
+Name: assets/UI/UIAllianceBox.unity3d
+SHA1-Digest: 1+BJyT+e8nUEUINOGv065nhjI7Q=
+
+Name: assets/UI/UIAllianceHint.unity3d
+SHA1-Digest: gntHjlI4wdzlK14CMoBSNvzlugk=
+
+Name: assets/UI/UIAllianceInput.unity3d
+SHA1-Digest: 0kv7VVWm8EOknAFDqWj+yUgY7Iw=
+
+Name: assets/UI/UIAllianceMatchInfo.unity3d
+SHA1-Digest: cA4DKO7+yUQ3Il4uKVkyOE5wHRc=
+
+Name: assets/UI/UIAllianceWarOver.unity3d
+SHA1-Digest: rTMtTXBRm3k667nsC4TgJqy8qds=
+
+Name: assets/UI/UIAllianceWar_Rank.unity3d
+SHA1-Digest: nM32hD17nr5uXZ51hssvD3EySwY=
+
+Name: assets/UI/UIAlliance_Gift.unity3d
+SHA1-Digest: aZBjYN/VQv+m8a/AKC+dpVsB39Q=
+
+Name: assets/UI/UIAlliance_Info.unity3d
+SHA1-Digest: D7ztnfrz44xeUU8YeVvTpMN5mAQ=
+
+Name: assets/UI/UIAlliance_Management.unity3d
+SHA1-Digest: 2mDZz+XIJKi1iG55JcxTwJDdVaY=
+
+Name: assets/UI/UIAlliance_Mobilization.unity3d
+SHA1-Digest: RSbBDslWhZYgVqsWz+vhN+FcpcY=
+
+Name: assets/UI/UIAltar.unity3d
+SHA1-Digest: 3DZpK0UeJ0sM1n8tIzkFR6HQSfU=
+
+Name: assets/UI/UIAmbush.unity3d
+SHA1-Digest: sq7a+x+oOEnVGH/T4Qua6P49O6M=
+
+Name: assets/UI/UIAnnouncement.unity3d
+SHA1-Digest: mSc5r4FgkSxMnflcyDd3WPyhFaw=
+
+Name: assets/UI/UIArena.unity3d
+SHA1-Digest: uYPx6wIcf5NwTR9WslfTVhDTlhc=
+
+Name: assets/UI/UIArena_Hint.unity3d
+SHA1-Digest: plwvw8i0n3S2ZOAHTDL+LA+62Lc=
+
+Name: assets/UI/UIArmyHint.unity3d
+SHA1-Digest: XwoZWaSzHw1tGGchhVCdHn1TJ60=
+
+Name: assets/UI/UIArmyInfo.unity3d
+SHA1-Digest: LmghBjAyrZLtOzth4R3OmnAP7NY=
+
+Name: assets/UI/UIBackMessage.unity3d
+SHA1-Digest: TzanDy9ToVdcCz86/iB34SPK9+8=
+
+Name: assets/UI/UIBagAndFilter.unity3d
+SHA1-Digest: O2xhkC8gEj1KHaKMLisstx4b3Ls=
+
+Name: assets/UI/UIBarrack.unity3d
+SHA1-Digest: 1wP5bYHnSyJA4oIUKpmL+Xb8yf8=
+
+Name: assets/UI/UIBarrack_Soldier.unity3d
+SHA1-Digest: GepqFJymNvrizAtnj5tIdbwAOCA=
+
+Name: assets/UI/UIBattle.unity3d
+SHA1-Digest: nh4Y8JFYUcc42cKCRVy0Qmz+TaM=
+
+Name: assets/UI/UIBattleBegin.unity3d
+SHA1-Digest: fxN7UvG3y3acyFeQZqbp/AUmTbY=
+
+Name: assets/UI/UIBattleHeroSelect.unity3d
+SHA1-Digest: fRRvIC2t/+PwYBLHrZcwgjN+TcU=
+
+Name: assets/UI/UIBattleReport.unity3d
+SHA1-Digest: 0fVXKC/Oelc6KrFqk0gujr0nFTU=
+
+Name: assets/UI/UIBattle_Gambling.unity3d
+SHA1-Digest: EW2dNAgAHYheH3P1H0kQXT1RJK8=
+
+Name: assets/UI/UIBlackList.unity3d
+SHA1-Digest: plAWWVaXpZ6pNM4sbkmBkaKpVDk=
+
+Name: assets/UI/UIBuffInformation.unity3d
+SHA1-Digest: c2hMX5yWJbXJintXKYWt8cNUw8c=
+
+Name: assets/UI/UIBuffList.unity3d
+SHA1-Digest: RaE7XC1FrD6vyrah8br9zRlN7jY=
+
+Name: assets/UI/UICalculator.unity3d
+SHA1-Digest: oqen01EdpSzoAq2ARmPp7LHniBg=
+
+Name: assets/UI/UICanonizedPanel.unity3d
+SHA1-Digest: da0/0xv8W1m5EpJPG6xxuJUfvsc=
+
+Name: assets/UI/UICastle.unity3d
+SHA1-Digest: NPOvJH6nZ6wT7p4GtoggBy1QL4w=
+
+Name: assets/UI/UICastleSkin.unity3d
+SHA1-Digest: xeKtqKPPI2rlN+oKz/HgwADK228=
+
+Name: assets/UI/UICastleUpgradeReward.unity3d
+SHA1-Digest: JTciE8z/SF7/dP87xPnMvwqTJiY=
+
+Name: assets/UI/UIChapterRewards.unity3d
+SHA1-Digest: +0DEZy7TgFJ8zPAke1f1AliqOT0=
+
+Name: assets/UI/UIChat.unity3d
+SHA1-Digest: tHqD2uQgVGnVVWlOhSL2oDFyxCk=
+
+Name: assets/UI/UICityWall.unity3d
+SHA1-Digest: fAyvyrtt94m3d6c4aNystIsMfj0=
+
+Name: assets/UI/UIDefenders.unity3d
+SHA1-Digest: srkwVG+Ab7VpQwWfBYyAORRbGxI=
+
+Name: assets/UI/UIDevelopmentDetails.unity3d
+SHA1-Digest: yvQhrFz7zdXdSTPxnQUBpGFWdsw=
+
+Name: assets/UI/UIDonation.unity3d
+SHA1-Digest: Dbq7wU9wpQvGpmXKqHX72xocr/Q=
+
+Name: assets/UI/UIEmbassy.unity3d
+SHA1-Digest: yzIM5qTvD5XeuNh3RGwxkBt4//Q=
+
+Name: assets/UI/UIEmojiSelect.unity3d
+SHA1-Digest: bmlfmGsD/2n2eIpOvH+Fj+ExHsk=
+
+Name: assets/UI/UIExpedition.unity3d
+SHA1-Digest: dMtlhJF1vTUZD5Ua+4rLNMSjGyA=
+
+Name: assets/UI/UIFBMission.unity3d
+SHA1-Digest: wePd79QTCAhvdVCke+DEELgd1jg=
+
+Name: assets/UI/UIFightingSummary.unity3d
+SHA1-Digest: KGD7gWAqewfKCZBImpVrpO3PjBA=
+
+Name: assets/UI/UIFightingSummary_Info.unity3d
+SHA1-Digest: fx7GuMH/XbvD5H7TRQpWxwX1tww=
+
+Name: assets/UI/UIFootBall.unity3d
+SHA1-Digest: 0cp8eWJeNcb4RLJi3RJUM/8j8aU=
+
+Name: assets/UI/UIForge.unity3d
+SHA1-Digest: KG+5CHf5jvSVkvgajdWKzi2iFvI=
+
+Name: assets/UI/UIForge_Item.unity3d
+SHA1-Digest: UjTzmB+lZ84wxDt774zS/5VA5Qc=
+
+Name: assets/UI/UIFront.unity3d
+SHA1-Digest: t6twfej2+SN3q40wPSW7UBz/qA4=
+
+Name: assets/UI/UIGroundInfo.unity3d
+SHA1-Digest: tJ3sfIC6/8yez7TH5hs2lDeCnN4=
+
+Name: assets/UI/UIHeroList.unity3d
+SHA1-Digest: vfaV9GjID8YyCIubUFutLQES/sI=
+
+Name: assets/UI/UIHeroList_Soldier.unity3d
+SHA1-Digest: y/vBar/srZAJb8JZ3Mj8T5jFK4w=
+
+Name: assets/UI/UIHeroUp.unity3d
+SHA1-Digest: MUGdAX6mbXVsOu+VMk4v9fRNaLw=
+
+Name: assets/UI/UIHeroUse.unity3d
+SHA1-Digest: BqPm+LtWO0D3m3hWx+wRkso52YE=
+
+Name: assets/UI/UIHero_Info.unity3d
+SHA1-Digest: RGcw+1cWEqPQEsHLuflZ5X1vbDs=
+
+Name: assets/UI/UIHospital.unity3d
+SHA1-Digest: F34iwJDRFKm9ZMCdlCMz2Uiopw0=
+
+Name: assets/UI/UIItemCraftShow.unity3d
+SHA1-Digest: BUc/niQAaaOCpcA475cJbkT1fTU=
+
+Name: assets/UI/UIKingdom_Classifieds.unity3d
+SHA1-Digest: TSVn6VOyHsedyz/oeGWYKIE/9W4=
+
+Name: assets/UI/UILegBattle.unity3d
+SHA1-Digest: Tisvf5A9yMxXLq2K+JzYzC2+Bhc=
+
+Name: assets/UI/UILetter.unity3d
+SHA1-Digest: kF0cgcDx8cBmwYGb3bRrUa8Z18g=
+
+Name: assets/UI/UILetterDetail.unity3d
+SHA1-Digest: gQJ6YB3DKb5U4bRQmQDv/yP1hIM=
+
+Name: assets/UI/UILetterEditor.unity3d
+SHA1-Digest: D80GvZhifcK5Dgbo7lVuFJWI+T8=
+
+Name: assets/UI/UILetter_Resources.unity3d
+SHA1-Digest: QxwpBeeBaVV3/xMkwjznx9fMFDg=
+
+Name: assets/UI/UILetter_Watchtower.unity3d
+SHA1-Digest: KV+OGCa76q2F3KaBIz2P9ag0JpA=
+
+Name: assets/UI/UILight.unity3d
+SHA1-Digest: P9BO0fcHXeOn1fcZMXm1dgJstnE=
+
+Name: assets/UI/UILoadingTalk.unity3d
+SHA1-Digest: S/OP4TJbHoOLCnGEYfxxMmHcp9c=
+
+Name: assets/UI/UIMall.unity3d
+SHA1-Digest: vQzR2NtyTdfZ6JvuIxbAxrdoTeg=
+
+Name: assets/UI/UIMapMonster.unity3d
+SHA1-Digest: 3CFMu6v4wK8tJPh1DdHJcMGX1HQ=
+
+Name: assets/UI/UIMarket.unity3d
+SHA1-Digest: UekbJQzMQ+4wZoHiSxNC4Ck1qKw=
+
+Name: assets/UI/UIMarket_Help.unity3d
+SHA1-Digest: K2aZLKlzmQTf49LE1B0xsOv5ids=
+
+Name: assets/UI/UIMerchantman.unity3d
+SHA1-Digest: IudOg/VRsChzS0zSLyb/o1iKifQ=
+
+Name: assets/UI/UIMessageBoard.unity3d
+SHA1-Digest: 6eJ2XoeZq4cEjxE+OLcm3xLtuFw=
+
+Name: assets/UI/UIMiniMap.unity3d
+SHA1-Digest: hULQ18RXwjgK3hASn3Cw7shQPMs=
+
+Name: assets/UI/UIMission.unity3d
+SHA1-Digest: 3oEiy51dXJSV7HjIb0ymDG8qtOs=
+
+Name: assets/UI/UIMonster_Crypt.unity3d
+SHA1-Digest: gH5FF3tJ0hzar48XLWRvu9a665A=
+
+Name: assets/UI/UIMonster_Crypt_3.unity3d
+SHA1-Digest: a67WjstaCb29ayql3OA/XZ67Faw=
+
+Name: assets/UI/UIName.unity3d
+SHA1-Digest: oKQXNOlsifeQHxBDDFaBToIeaOE=
+
+Name: assets/UI/UINewbie.unity3d
+SHA1-Digest: QpEXtDxDCqNimBQBQJ9qLBPsPMY=
+
+Name: assets/UI/UIOrigin.unity3d
+SHA1-Digest: OhIzeS/OkxjWKENKIdKs5OBem8E=
+
+Name: assets/UI/UIOther.unity3d
+SHA1-Digest: bs3n6+OP464QZN01++hZVRa3cgE=
+
+Name: assets/UI/UIOther_Account.unity3d
+SHA1-Digest: 9y0I7EpZwIhJ1+2QIksYFucxr5Q=
+
+Name: assets/UI/UIPaySetting.unity3d
+SHA1-Digest: HnXT17ySu8gjAnZS8zXaXNsi1GE=
+
+Name: assets/UI/UIPet.unity3d
+SHA1-Digest: bcYUGOPDEWmelDXDzflILhJrfbs=
+
+Name: assets/UI/UIPetBuff.unity3d
+SHA1-Digest: dqrl5lpXSiM0+oIuHRzupsejMts=
+
+Name: assets/UI/UIPetFusion.unity3d
+SHA1-Digest: HvavEQPn6nE+r1aLfZgcNM8X7Uw=
+
+Name: assets/UI/UIPetFusionbuilding.unity3d
+SHA1-Digest: mQ/5DOCobjNUmeB93Vg3Zy9rj6A=
+
+Name: assets/UI/UIPetLevelUp.unity3d
+SHA1-Digest: 687PVgivZQt6nYtffV9JRhXhOnA=
+
+Name: assets/UI/UIPetList.unity3d
+SHA1-Digest: D6AHsf0QnqNR9vCUWaUzmiNOHeI=
+
+Name: assets/UI/UIPetTrainingCenter.unity3d
+SHA1-Digest: dJ26whY9melWG6Wo826an8lpaRw=
+
+Name: assets/UI/UIRating.unity3d
+SHA1-Digest: oxsRhCl1Gc/vFE5DvmQ1MN7IiNU=
+
+Name: assets/UI/UIReplaceLord.unity3d
+SHA1-Digest: Bci0f4IHj572tAyVGiXcHU3XZUs=
+
+Name: assets/UI/UIResourceBuilding.unity3d
+SHA1-Digest: IsgO7SvNOaB7OxntrcaXqrP9FSk=
+
+Name: assets/UI/UISearchList.unity3d
+SHA1-Digest: 1aqbggI90+HXTZYtRNFjTP+Sdm8=
+
+Name: assets/UI/UISettlement.unity3d
+SHA1-Digest: phUZzen6Twrg4ZtCSCKTL/iNIro=
+
+Name: assets/UI/UIShieldLog.unity3d
+SHA1-Digest: zMVRccpX4AHL8s1JKQltMg6M4YU=
+
+Name: assets/UI/UIStageInfo.unity3d
+SHA1-Digest: cQwG9H7Ido2kJhkQpaqHbhlTcew=
+
+Name: assets/UI/UIStageSelect.unity3d
+SHA1-Digest: sOOUU1Klc6sHRyT11KrvjkcV4CY=
+
+Name: assets/UI/UIStageStory.unity3d
+SHA1-Digest: BvpgXw//cNmo5MPtpNH/bnvYUag=
+
+Name: assets/UI/UISuicideBox.unity3d
+SHA1-Digest: J4GS9dcIsEaSjtRAD2WwOkvdxjE=
+
+Name: assets/UI/UISuitBuilding.unity3d
+SHA1-Digest: WdizYmEnPjxnILv4oTyAeO0qkgA=
+
+Name: assets/UI/UISynthesis.unity3d
+SHA1-Digest: d9TbREuSWe5GS7dzXYIM6kr8VGI=
+
+Name: assets/UI/UITBWindow.unity3d
+SHA1-Digest: 1RE+gNGP+YK6ZNqXShBQ1L2rNbY=
+
+Name: assets/UI/UITalent.unity3d
+SHA1-Digest: Uo9aCLEqN7V0PhCy9VwmCo/WCz4=
+
+Name: assets/UI/UITalentSave.unity3d
+SHA1-Digest: WinESGrsa/MOSasSw1v76H73zIM=
+
+Name: assets/UI/UITechIcon.unity3d
+SHA1-Digest: AK7cYrue7vc/mvPuluYWEY7ISRY=
+
+Name: assets/UI/UITechTree.unity3d
+SHA1-Digest: ZlBhWlTLm7QK+ZSCAxCHTm4hW+0=
+
+Name: assets/UI/UITitle.unity3d
+SHA1-Digest: lu2RsHjWf7oAsZLlyaWlzbduwBk=
+
+Name: assets/UI/UITrap.unity3d
+SHA1-Digest: FSnAFZ4tqqFBFyZEoy+hMgchCvs=
+
+Name: assets/UI/UITreasureBox.unity3d
+SHA1-Digest: QvP0IaujX6lZJFSIjzdbQJLqr2o=
+
+Name: assets/UI/UIWallRepair.unity3d
+SHA1-Digest: EgY/XZTYH7yT2p5nTYC/91AzRFE=
+
+Name: assets/UI/UIWarLobby.unity3d
+SHA1-Digest: o1oE9j9mc2u/efkGgmApXNprtU8=
+
+Name: assets/UI/UIWarehouse.unity3d
+SHA1-Digest: 0P22S/4QVUqn+G71H0dGBioCK08=
+
+Name: assets/UI/UIWatchtower.unity3d
+SHA1-Digest: 1VwUbvJEg/bKpNiObHeUD7Q5uYw=
+
+Name: assets/UI/UIWatchtower_Details.unity3d
+SHA1-Digest: /ysvU0zpUec5skJgcetWqNdvuEw=
+
+Name: assets/UI/UIWonderLand.unity3d
+SHA1-Digest: mCn6PA7ZBub475ojKEj0C+G4hgk=
+
+Name: assets/UI/UI_AlliWarSchedule.unity3d
+SHA1-Digest: czJn90BTpKtuwvhsm5G/tizwLW4=
+
+Name: assets/UI/UI_AllianceWar_Register.unity3d
+SHA1-Digest: biGAq7ENadjID/TP+8Qzst1LTTE=
+
+Name: assets/UI/UI_ConditionIcon.unity3d
+SHA1-Digest: NsyLUcw1WHJWBz48WBeUgbzWqmA=
+
+Name: assets/UI/UI_Crypt.unity3d
+SHA1-Digest: 8OI50X3eKnXOSwVqehvtXTJcYHI=
+
+Name: assets/UI/UI_EffectFilter.unity3d
+SHA1-Digest: dcCNR4R9oKGq7RRU7mZiGgZ3wc4=
+
+Name: assets/UI/UI_ForgeAnvil.unity3d
+SHA1-Digest: pII9/7rZsknvkA4xfJM/9Mxideo=
+
+Name: assets/UI/UI_FormationSelect.unity3d
+SHA1-Digest: BfBwL7UuJqTzMSVyDSkVtSgVbBQ=
+
+Name: assets/UI/UI_HeroTalk.unity3d
+SHA1-Digest: 4L+iQ7vD81IXBVwFVkVdHISlK1g=
+
+Name: assets/UI/UI_Immigration.unity3d
+SHA1-Digest: uvZK8vogYvqS3SmtwjAApk7mLeA=
+
+Name: assets/UI/UI_Information.unity3d
+SHA1-Digest: jYZdYbfIHM3YkQXaW+erVhYxtyU=
+
+Name: assets/UI/UI_Jail.unity3d
+SHA1-Digest: 5Dh+DWm4FDlLXU7uT22uQBB8oOU=
+
+Name: assets/UI/UI_JailMoney.unity3d
+SHA1-Digest: RT3lHqMqUuHddY/AdNLB9LccPKE=
+
+Name: assets/UI/UI_JailRoom.unity3d
+SHA1-Digest: r8/sI8BMPGEbn9WKiH/ojPzUQac=
+
+Name: assets/UI/UI_LeaderBoard.unity3d
+SHA1-Digest: Jqt9MURAGIRH6+xiToP5OlAZfu4=
+
+Name: assets/UI/UI_LordEquip.unity3d
+SHA1-Digest: 4fTN0yi5T/+/7ZyI0npAXMvwvbU=
+
+Name: assets/UI/UI_LordEquipSetEdit.unity3d
+SHA1-Digest: Zv4TlJ49RdCwwt2k7kGiY4tD/hc=
+
+Name: assets/UI/UI_LordInfo.unity3d
+SHA1-Digest: 3yqpAzHFZez4PI7dOYTN+dyf9B8=
+
+Name: assets/UI/UI_OpenBox.unity3d
+SHA1-Digest: EAaBUpJdzS8HAmAoRMq27Qm8CsM=
+
+Name: assets/UI/UI_PetResourceStation.unity3d
+SHA1-Digest: OJPZr1GtctfH2nBOOkIcuZmO1Nc=
+
+Name: assets/UI/UI_PriestTalk.unity3d
+SHA1-Digest: +VhpKRIbSNbUTV488fLfj5eEnFg=
+
+Name: assets/UI/UI_Titleicon.unity3d
+SHA1-Digest: TdPXaaQu3rqkxsiocszOAgfT5DY=
+
+Name: assets/UI/UI_VIP.unity3d
+SHA1-Digest: PhRJwUb4OiGsULJBDulAZ/dpgEk=
+
+Name: assets/UI/UI_VIPLevelUP.unity3d
+SHA1-Digest: CJVVMyHlEYIz4+3vPLSp80svOSo=
+
+Name: assets/UI/UI_Wonders_icon.unity3d
+SHA1-Digest: xxgY3xTO9x0GPAd4cfzRVz0ZpB8=
+
+Name: assets/UI/UI_arms.unity3d
+SHA1-Digest: 8uJKt9il8/UdDEDsOPnS3POjhZc=
+
+Name: assets/UI/UI_armypic.unity3d
+SHA1-Digest: yqKkU+QDpzzu5BAKXRadmHlWqRM=
+
+Name: assets/UI/UI_forge_equip_pop.unity3d
+SHA1-Digest: nFtqYt1SaTv0W1Ipg84aJoOV13s=
+
+Name: assets/UI/UI_frame.unity3d
+SHA1-Digest: tWOO8nuIDnBSqoHMX+HXUD53E5M=
+
+Name: assets/UI/UI_icon.unity3d
+SHA1-Digest: GytQjyoFT7Hyrbb9C4nX1ZJ/gDM=
+
+Name: assets/UI/UI_itemicon.unity3d
+SHA1-Digest: Epxmy3aEUAces6N+Z3JyGu8sh00=
+
+Name: assets/UI/UI_leadicon.unity3d
+SHA1-Digest: +38nsZRI6wCxeb81EOXlTCjLjGI=
+
+Name: assets/UI/UI_leadmaticon.unity3d
+SHA1-Digest: ju3GFXTwKKDcjo/rH0F7z0yuc+U=
+
+Name: assets/UI/UI_leadup.unity3d
+SHA1-Digest: mYZUPXFO1SULm/6b1Ij19ggUG3A=
+
+Name: assets/UI/UI_league_badge.unity3d
+SHA1-Digest: bZVGl26BWIgyVxsKsMtfnTkmbSM=
+
+Name: assets/UI/UI_league_totem.unity3d
+SHA1-Digest: zZZyJVSVFJWeKr1DzuBgu9QdSgQ=
+
+Name: assets/UI/UI_skill.unity3d
+SHA1-Digest: svfd1Y47NsGIzkXKOVPLRL8eYXA=
+
+Name: assets/UI/UI_trap.unity3d
+SHA1-Digest: OElrWFvAOVo/PUscxd0wuyylrtY=
+
+Name: assets/UI/WorldBase.unity3d
+SHA1-Digest: b7wsI5txs4L26WlHuXxlDtzV5ro=
+
+Name: assets/UI/Yolk_000.unity3d
+SHA1-Digest: FpiZhwJrmMM9gCxRq577tycTSIs=
+
+Name: assets/UI/Yolk_001.unity3d
+SHA1-Digest: oTxrsRysuD1xYkJ+mbgttL4gf0o=
+
+Name: assets/UI/Yolk_002.unity3d
+SHA1-Digest: vZtihKNITI20qZipJVdOYF/smAU=
+
+Name: assets/UI/Yolk_003.unity3d
+SHA1-Digest: yK5WgpFQoCQ32s7sZl9S3+eJjbE=
+
+Name: assets/UI/Yolk_004.unity3d
+SHA1-Digest: T7V/PlcqPROMkwIiBW0TX/vK5F0=
+
+Name: assets/UI/Yolk_005.unity3d
+SHA1-Digest: WMJvGE0kHFsYKNAfgxE3HRWzzDs=
+
+Name: assets/UI/Yolk_006.unity3d
+SHA1-Digest: omqLQEo/3V05JoCyCs8ktimBi+A=
+
+Name: assets/UI/shadow.unity3d
+SHA1-Digest: TmwFaCJG2mItXcy3cqRPkI9+fKU=
+
+Name: assets/api_key.txt
+SHA1-Digest: QJOhxi80xQ7tZs4IOzPDcRMWToc=
+
+Name: assets/appConfig.properties
+SHA1-Digest: SX1t6b3mT+qT88gBr8UN0fbDheM=
+
+Name: assets/bin/Data/35220fab183979a4ca56daeca576bf5e
+SHA1-Digest: OxsGsbp3QTyx20voi12kKzSAiec=
+
+Name: assets/bin/Data/Managed/Assembly-CSharp-firstpass.dll
+SHA1-Digest: ra3bjYXG8pMrJHBIAMilrcZ3zps=
+
+Name: assets/bin/Data/Managed/Assembly-CSharp.dll
+SHA1-Digest: l5we9jHW6Qu2a341Q4uBEpGi58o=
+
+Name: assets/bin/Data/Managed/Mono.Security.dll
+SHA1-Digest: /TqCeP2rP47ByZ9/3RXOXN+sno0=
+
+Name: assets/bin/Data/Managed/System.Core.dll
+SHA1-Digest: MIoE1YnYw6Oo3Ldkn9reCEWKeUw=
+
+Name: assets/bin/Data/Managed/System.dll
+SHA1-Digest: VtQXLiI0OcV8IzFlflO1uWB0STU=
+
+Name: assets/bin/Data/Managed/UnityEngine.UI.dll
+SHA1-Digest: CT7s5tmLAPgF/120xsfThBNb9e8=
+
+Name: assets/bin/Data/Managed/UnityEngine.dll
+SHA1-Digest: B5RFU4b4e6FS0vmqAonHqvvcS0w=
+
+Name: assets/bin/Data/Managed/mscorlib.dll
+SHA1-Digest: UfbY8ZJFRO7F6Npq1eMYQR9VSUM=
+
+Name: assets/bin/Data/Resources/unity_builtin_extra
+SHA1-Digest: f0Uc5yri9J4sUeNO9fnLw7H9QgM=
+
+Name: assets/bin/Data/mainData
+SHA1-Digest: rTah/C7ZImxX7Xef1zZlHZR7fS4=
+
+Name: assets/bin/Data/settings.xml
+SHA1-Digest: 78x//9UfDFYZJA5we6P0MVOrA5A=
+
+Name: assets/bin/Data/sharedassets0.assets
+SHA1-Digest: 4D3epy5FNPH534jxg3ILWujhjOw=
+
+Name: assets/bin/Data/splash.png
+SHA1-Digest: P18AM7DLe4RdCKaMMXDw/zXfrVw=
+
+Name: assets/bin/Data/unity default resources
+SHA1-Digest: t19cC+G3BCZOOZACKk/LhC3locc=
+
+Name: assets/com/tapjoy/res/countdown_image.png
+SHA1-Digest: Wis9Mz0BtFfntYi6ZbGOOgrg96g=
+
+Name: assets/com/tapjoy/res/tj_close_button.png
+SHA1-Digest: aNxqPpzLj1XBYTpftOo5tlmhi3Y=
+
+Name: classes.dex
+SHA1-Digest: CVnHzUt/2hM/rhn0kuLz+1zhaeI=
+
+Name: lib/armeabi-v7a/libBattleSimDll.so
+SHA1-Digest: R8j+15CBDyWY74aGE9y6TJzzki4=
+
+Name: lib/armeabi-v7a/libgetuiext2.so
+SHA1-Digest: w2xQploMGxJF6KZEjIsCv2iKiT0=
+
+Name: lib/armeabi-v7a/libmain.so
+SHA1-Digest: +jYMwUpK20PLqD0f0rEayYEEhzU=
+
+Name: lib/armeabi-v7a/libmono.so
+SHA1-Digest: SbC29J8HeEStns1jcUOa6pUT5YI=
+
+Name: lib/armeabi-v7a/libunity.so
+SHA1-Digest: 4mHRRQ47NQMaJTwdgYz4TV5S6QQ=
+
+Name: res/color/btn_level_1_text_color_selector.xml
+SHA1-Digest: fN3A0mFX9TyQOaYOV/PA3on+0xI=
+
+Name: res/drawable-hdpi-v4/app_icon.png
+SHA1-Digest: SvBsnH8Prj/xgRIJXMKuw4+Z338=
+
+Name: res/drawable-hdpi-v4/com_facebook_button_icon.png
+SHA1-Digest: X5fgYBtntkzQXtifbv/+whbHZRs=
+
+Name: res/drawable-hdpi-v4/com_facebook_button_like_icon_selected.png
+SHA1-Digest: l/nmTjh1aa6IFeN2p4sgxj/1LN0=
+
+Name: res/drawable-hdpi-v4/com_facebook_button_send_icon.png
+SHA1-Digest: J5SqN8x6qtUGG5qoGn/2FYcU7DU=
+
+Name: res/drawable-hdpi-v4/com_facebook_close.png
+SHA1-Digest: gkkP3Ytl6hhbyQMTU1AvAJVpabo=
+
+Name: res/drawable-hdpi-v4/com_facebook_tooltip_black_background.9.png
+SHA1-Digest: cFLcAfcdtjRVwaUiHcpXzbHB85k=
+
+Name: res/drawable-hdpi-v4/com_facebook_tooltip_black_bottomnub.png
+SHA1-Digest: Ll7bn9vH+V/yLvkxL/enCe9ZKRQ=
+
+Name: res/drawable-hdpi-v4/com_facebook_tooltip_black_topnub.png
+SHA1-Digest: h8kyKRWxpTSLGLLZwNSZSs+bhm4=
+
+Name: res/drawable-hdpi-v4/com_facebook_tooltip_black_xout.png
+SHA1-Digest: ry6vqqp6vbscrIO1XPq38OFut00=
+
+Name: res/drawable-hdpi-v4/com_facebook_tooltip_blue_background.9.png
+SHA1-Digest: wpFv49h+4EQ75rhCiw8m9WXVHUc=
+
+Name: res/drawable-hdpi-v4/com_facebook_tooltip_blue_bottomnub.png
+SHA1-Digest: YcRVGeQc00k2hTdqu3PdLFSXn9o=
+
+Name: res/drawable-hdpi-v4/com_facebook_tooltip_blue_topnub.png
+SHA1-Digest: VPdppGw0KukZvg2wbAc6H59sMyo=
+
+Name: res/drawable-hdpi-v4/com_facebook_tooltip_blue_xout.png
+SHA1-Digest: 7sfzYDkSB2WxvI/9pCq6flhdSEk=
+
+Name: res/drawable-hdpi-v4/ic_launcher.png
+SHA1-Digest: EDfRZVtxmw4+2o/l7eQDgoVC2wQ=
+
+Name: res/drawable-hdpi-v4/messenger_bubble_large_blue.png
+SHA1-Digest: uGl/ZpFc6Gopt8bwqDuI+DeU3AU=
+
+Name: res/drawable-hdpi-v4/messenger_bubble_large_white.png
+SHA1-Digest: ozmHdsqCfDUcW3Ez+raeCieZbBA=
+
+Name: res/drawable-hdpi-v4/messenger_bubble_small_blue.png
+SHA1-Digest: 455oihzp5p6ZqM0l8sLaHzgcfCA=
+
+Name: res/drawable-hdpi-v4/messenger_bubble_small_white.png
+SHA1-Digest: wIVxOspO61WEtIURYzVaT07U1fs=
+
+Name: res/drawable-hdpi-v4/messenger_button_send_round_shadow.png
+SHA1-Digest: 3unwaXsAGaYOM51f+jFN5tSTS2U=
+
+Name: res/drawable-ldpi-v4/app_icon.png
+SHA1-Digest: ao34liC4YXcyru2v9Y3EAOj6vdw=
+
+Name: res/drawable-mdpi-v4/app_icon.png
+SHA1-Digest: DXC/Ht3zDsnyRRHG4GqlRubAHk0=
+
+Name: res/drawable-mdpi-v4/com_facebook_button_icon.png
+SHA1-Digest: eDkCzT4sys1j5ofxRVSwrhxZBTk=
+
+Name: res/drawable-mdpi-v4/com_facebook_button_like_icon_selected.png
+SHA1-Digest: xX+dB65B/trtO3KkCxRzEUFPSP8=
+
+Name: res/drawable-mdpi-v4/com_facebook_button_send_icon.png
+SHA1-Digest: AA/ilf1F1R6EsPaRIqiRGRnM/N8=
+
+Name: res/drawable-mdpi-v4/com_facebook_close.png
+SHA1-Digest: 3FAJ1dMx4RNCRNwigRHJJXmRTxg=
+
+Name: res/drawable-mdpi-v4/com_facebook_profile_picture_blank_portrait
+ .png
+SHA1-Digest: hCF5Krw+tsj1LrBNnYZxYYpVD8E=
+
+Name: res/drawable-mdpi-v4/com_facebook_profile_picture_blank_square.p
+ ng
+SHA1-Digest: 11cPJgNJUXEyZIdj5F5Kh/qeSHc=
+
+Name: res/drawable-mdpi-v4/com_facebook_tooltip_black_background.9.png
+SHA1-Digest: /cCPBRXev7UGbF1AQNmAloggnCw=
+
+Name: res/drawable-mdpi-v4/com_facebook_tooltip_black_bottomnub.png
+SHA1-Digest: wzyxQCwJI7VPDOf3KhnckaswNMo=
+
+Name: res/drawable-mdpi-v4/com_facebook_tooltip_black_topnub.png
+SHA1-Digest: OOTQhmb7mzZFdfQLEemkaMdOp20=
+
+Name: res/drawable-mdpi-v4/com_facebook_tooltip_black_xout.png
+SHA1-Digest: 8cM2fiHn2MfUWwTRKqeTQN/jJlU=
+
+Name: res/drawable-mdpi-v4/com_facebook_tooltip_blue_background.9.png
+SHA1-Digest: /InT0KVNvy7petW/mClqCNJm+cw=
+
+Name: res/drawable-mdpi-v4/com_facebook_tooltip_blue_bottomnub.png
+SHA1-Digest: 3duvXe9Z23tK4UcPuUDUge8/iTE=
+
+Name: res/drawable-mdpi-v4/com_facebook_tooltip_blue_topnub.png
+SHA1-Digest: HRBQBKthxxMi8Bofr3YGsFyIq10=
+
+Name: res/drawable-mdpi-v4/com_facebook_tooltip_blue_xout.png
+SHA1-Digest: nbja+IN+JfflOmmnoWqxc2BVU/M=
+
+Name: res/drawable-mdpi-v4/ic_launcher.png
+SHA1-Digest: RHpI5Ku24rh6ml58nL3XtZrzRAo=
+
+Name: res/drawable-mdpi-v4/messenger_bubble_large_blue.png
+SHA1-Digest: gQ0/2YVeIPXpYPt7iK0T/KVk1lA=
+
+Name: res/drawable-mdpi-v4/messenger_bubble_large_white.png
+SHA1-Digest: emFkMLLP4q9pU2fUKoWK8aTC5nY=
+
+Name: res/drawable-mdpi-v4/messenger_bubble_small_blue.png
+SHA1-Digest: zwpdnqRsmAbmWAO6NqfF9j2hmkA=
+
+Name: res/drawable-mdpi-v4/messenger_bubble_small_white.png
+SHA1-Digest: vRsQDmEctEUgqOPziapdOdeNbQw=
+
+Name: res/drawable-mdpi-v4/messenger_button_send_round_shadow.png
+SHA1-Digest: tL48EWCGgHAUf7xT8SmTPKR2uj4=
+
+Name: res/drawable-xhdpi-v4/app_icon.png
+SHA1-Digest: 7o94cb6/y+BTbezR7bEKxkow1uk=
+
+Name: res/drawable-xhdpi-v4/com_facebook_button_icon.png
+SHA1-Digest: BjlwAMR/d53b35z1BNsYDJ3QPtc=
+
+Name: res/drawable-xhdpi-v4/com_facebook_button_like_icon_selected.png
+SHA1-Digest: kheZdCaauNIObSdEuvg3/xux3W8=
+
+Name: res/drawable-xhdpi-v4/com_facebook_button_send_icon.png
+SHA1-Digest: x1rszHTCRQTaVVK/pgQlR199INE=
+
+Name: res/drawable-xhdpi-v4/com_facebook_close.png
+SHA1-Digest: AZLd+Teo4PjaY2ylYR8kOZ7A4KA=
+
+Name: res/drawable-xhdpi-v4/com_facebook_tooltip_black_background.9.pn
+ g
+SHA1-Digest: C6zMC7FJKr3OixJy8CehCYRGJgk=
+
+Name: res/drawable-xhdpi-v4/com_facebook_tooltip_black_bottomnub.png
+SHA1-Digest: 3buoKAApPQcV7UkCZ12TOhjBvnA=
+
+Name: res/drawable-xhdpi-v4/com_facebook_tooltip_black_topnub.png
+SHA1-Digest: 3/sSgQIF1vLGsuAfjSF0YsRSYAE=
+
+Name: res/drawable-xhdpi-v4/com_facebook_tooltip_black_xout.png
+SHA1-Digest: ctUuIjZakD8wSQs7hMuhaA/Qgt8=
+
+Name: res/drawable-xhdpi-v4/com_facebook_tooltip_blue_background.9.png
+SHA1-Digest: FzgoAdXso4c/jO+d1BsCAoZ6/3s=
+
+Name: res/drawable-xhdpi-v4/com_facebook_tooltip_blue_bottomnub.png
+SHA1-Digest: gb9FISWAqoVzJXgCSY6eiwUpoHg=
+
+Name: res/drawable-xhdpi-v4/com_facebook_tooltip_blue_topnub.png
+SHA1-Digest: VY4BZTPfOqztABK1+O31b7kzEc8=
+
+Name: res/drawable-xhdpi-v4/com_facebook_tooltip_blue_xout.png
+SHA1-Digest: vrWBJssyOjhGjA2lZFVNRwq2A0w=
+
+Name: res/drawable-xhdpi-v4/ic_launcher.png
+SHA1-Digest: bbRxSGlelhcFLhPIUhCkUqTBhto=
+
+Name: res/drawable-xhdpi-v4/messenger_bubble_large_blue.png
+SHA1-Digest: 2RSgEcY527N8nc6vkEu9oe4mHt8=
+
+Name: res/drawable-xhdpi-v4/messenger_bubble_large_white.png
+SHA1-Digest: Ml+07WnzobpxpeZBxRW/vroGYC4=
+
+Name: res/drawable-xhdpi-v4/messenger_bubble_small_blue.png
+SHA1-Digest: /FjtqMoeBb1uJXWlCDEKai6tui0=
+
+Name: res/drawable-xhdpi-v4/messenger_bubble_small_white.png
+SHA1-Digest: NtCFEYeBurmk3oskoWpyRbh6HeA=
+
+Name: res/drawable-xhdpi-v4/messenger_button_send_round_shadow.png
+SHA1-Digest: QcrNtwdkdkFIT+mUFvWqLjGw8/8=
+
+Name: res/drawable-xxhdpi-v4/app_icon.png
+SHA1-Digest: +Woa6knZRz+Fl3ysmLnDhrKqDaE=
+
+Name: res/drawable-xxhdpi-v4/com_facebook_button_icon.png
+SHA1-Digest: YxThTkYnzS1gfbtSUxefWUzD5Nc=
+
+Name: res/drawable-xxhdpi-v4/com_facebook_button_like_icon_selected.pn
+ g
+SHA1-Digest: 4Sdqg7wQrTL1CDWzbaR/gWRx/SM=
+
+Name: res/drawable-xxhdpi-v4/com_facebook_button_send_icon.png
+SHA1-Digest: ttgxfVsubOPyTV+8k0P5lm1atm4=
+
+Name: res/drawable-xxhdpi-v4/ic_auth.png
+SHA1-Digest: 5aG1nGOF3EIXaw02EppHTfKWSKc=
+
+Name: res/drawable-xxhdpi-v4/messenger_bubble_large_blue.png
+SHA1-Digest: MLqB6cg4mkFuEfLcJqoDxxWtdWk=
+
+Name: res/drawable-xxhdpi-v4/messenger_bubble_large_white.png
+SHA1-Digest: E8/LM8gZKl5aNMqlAvoi0A+Gv50=
+
+Name: res/drawable-xxhdpi-v4/messenger_bubble_small_blue.png
+SHA1-Digest: jNvxHk5uNNnzLtNYfomHIZfERbE=
+
+Name: res/drawable-xxhdpi-v4/messenger_bubble_small_white.png
+SHA1-Digest: 6/s7R3MnhIc6CsWJYNhdJYCwqos=
+
+Name: res/drawable-xxhdpi-v4/messenger_button_send_round_shadow.png
+SHA1-Digest: Lxp8rhvzVqmT3Oy+pFyWTg74mJQ=
+
+Name: res/drawable-xxxhdpi-v4/app_icon.png
+SHA1-Digest: fBhjOxJGIVh1QyFb+QsCUszEVWs=
+
+Name: res/drawable/app_icon.png
+SHA1-Digest: 5QVGzRAwYb5pLUquCL02YcXCHB0=
+
+Name: res/drawable/btn_general_level_1_selector.xml
+SHA1-Digest: 8Ge7t28DJIWVag6Lt5Z5H9sLo+k=
+
+Name: res/drawable/btn_general_level_2_selector.xml
+SHA1-Digest: WUxNBMuLBAhmKy1XVF/5BKywW80=
+
+Name: res/drawable/circle.xml
+SHA1-Digest: DMWz21gtMr+IJ2V4k38hjm8KoRI=
+
+Name: res/drawable/com_facebook_button_background.xml
+SHA1-Digest: YwXcXnYT1AZnhmFAuO616wHPTms=
+
+Name: res/drawable/com_facebook_button_like_background.xml
+SHA1-Digest: RJOhJbyOrUs2uSw/iCG2urIXPLQ=
+
+Name: res/drawable/com_facebook_button_login_silver_background.xml
+SHA1-Digest: cd4USBsk4CUeCE4ZVj0UzfrkG2E=
+
+Name: res/drawable/com_facebook_button_send_background.xml
+SHA1-Digest: Pb5WgEtWDfg7UZFACxRXxD0GKJw=
+
+Name: res/drawable/exit.png
+SHA1-Digest: K7jG3MDLp6Fa6XfacQEDKWUKKcU=
+
+Name: res/drawable/exit_press.png
+SHA1-Digest: EH+F4b+ybrJfy2icDwxJXrauLoU=
+
+Name: res/drawable/icon_status.png
+SHA1-Digest: qPBIsyfaoXCQ05aJK02iSO74V18=
+
+Name: res/drawable/messenger_button_blue_bg_round.xml
+SHA1-Digest: ypJg9LHvm3zI00Zg8+sJRmggA2c=
+
+Name: res/drawable/messenger_button_blue_bg_selector.xml
+SHA1-Digest: TOeWjBTOOY1Jrmz/q3B8OslEI/c=
+
+Name: res/drawable/messenger_button_white_bg_round.xml
+SHA1-Digest: KSn92uczpn1Ei3u5jTObiIScucs=
+
+Name: res/drawable/messenger_button_white_bg_selector.xml
+SHA1-Digest: rQBVpf4BG1/D2Olq9/QZcVBoO5g=
+
+Name: res/layout-v13/activity_auth.xml
+SHA1-Digest: YSGyNmDTu9389XC3LdrEIryZ8rE=
+
+Name: res/layout/activity_auth.xml
+SHA1-Digest: fAKyAmrjJuFEsT2wa2lIb/vc7Vk=
+
+Name: res/layout/com_facebook_activity_layout.xml
+SHA1-Digest: TGbqzF9m7l4l/VPNFIjxyHFjwGE=
+
+Name: res/layout/com_facebook_login_fragment.xml
+SHA1-Digest: T5au/s22lpAGkRjhG40+uzR+G1Y=
+
+Name: res/layout/com_facebook_tooltip_bubble.xml
+SHA1-Digest: 5eEx8iZDapg36pjaQv6a4WULPTo=
+
+Name: res/layout/messenger_button_send_blue_large.xml
+SHA1-Digest: CIF5mBv8TwvJyZ7QA0bjAttB3Hs=
+
+Name: res/layout/messenger_button_send_blue_round.xml
+SHA1-Digest: NzsTU5KI8V0x2mkxWAr2/oN8cBI=
+
+Name: res/layout/messenger_button_send_blue_small.xml
+SHA1-Digest: binkBLqTUHn5Z/cM+b/8sDJ7X9w=
+
+Name: res/layout/messenger_button_send_white_large.xml
+SHA1-Digest: pyvWr3wMI7nz7VL1YLPvMBdhx6M=
+
+Name: res/layout/messenger_button_send_white_round.xml
+SHA1-Digest: 6AuZRrCJ1Hafdc9e7A+xuNHHyH8=
+
+Name: res/layout/messenger_button_send_white_small.xml
+SHA1-Digest: YLYKgvHotkYBAgrkvDBT4TeJbpk=
+
+Name: resources.arsc
+SHA1-Digest: D6hwhh3d8uiZlgda+qICRq+rUbQ=
+
